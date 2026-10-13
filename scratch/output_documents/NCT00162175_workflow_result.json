@@ -1,0 +1,1371 @@
+{
+  "study_id": "NCT00162175",
+  "canonical_protocol": {
+    "status": "canonicalized",
+    "source": {
+      "filename": "ctg-studies.json",
+      "type": "json"
+    },
+    "protocol": {
+      "study_id": "NCT00162175",
+      "title": "PPAR-COMBO With Sulfonylurea",
+      "official_title": "A Phase 3, Randomized, Double-blind, Placebo Controlled, Multicenter Trial to Evaluate the Safety and Efficacy of BMS-298585 in Combination With Glyburide Therapy in Subjects With Type 2 Diabetes Who Have Inadequate Glycemic Control on Sulfonylurea Therapy Alone",
+      "study_type": "INTERVENTIONAL",
+      "phase": "PHASE3",
+      "overall_status": "COMPLETED",
+      "conditions": [
+        "Metabolics Diabetes Nos"
+      ],
+      "interventions": [
+        {
+          "name": "Muraglitazar",
+          "type": "DRUG",
+          "description": null
+        }
+      ],
+      "comparators": [],
+      "objectives": {
+        "primary": [
+          "A Phase 3, Randomized, Double-blind, Placebo Controlled, Multicenter Trial to Evaluate the Safety and Efficacy of BMS-298585 in Combination with Glyburide Therapy in Subjects with Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Sulfonylurea Therapy Alone."
+        ],
+        "secondary": []
+      },
+      "eligibility": {
+        "inclusion": [
+          "Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL."
+        ],
+        "exclusion": [
+          "History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or endocrine disease."
+        ],
+        "raw_text": "Inclusion Criteria:\n\n* Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL.\n\nExclusion Criteria:\n\n* History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or endocrine disease.",
+        "minimum_age": "18 Years",
+        "maximum_age": "70 Years",
+        "sex": "ALL",
+        "healthy_volunteers": false
+      },
+      "population": null,
+      "duration": null,
+      "procedures": [],
+      "outcomes": {
+        "primary": [
+          "Compare change from baseline in HbA1c after 24 weeks of treatment with muraglitazar + glyburide vs placebo + glyburide"
+        ],
+        "secondary": [
+          "Change in FPG from basline to W24, proportion of subjects receiving therapeutic response at W24, percent change of fasting lipid levels from baseline to W11/12, change in hs-CRP from baseline to W24"
+        ]
+      },
+      "risks": [],
+      "benefits": [],
+      "source_sections": [
+        {
+          "section_name": "description",
+          "heading": "Brief Summary & Detailed Description",
+          "content": "A Phase 3, Randomized, Double-blind, Placebo Controlled, Multicenter Trial to Evaluate the Safety and Efficacy of BMS-298585 in Combination with Glyburide Therapy in Subjects with Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Sulfonylurea Therapy Alone.",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.descriptionModule"
+          }
+        },
+        {
+          "section_name": "design",
+          "heading": "Study Design & Population Parameters",
+          "content": "Study Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.designModule"
+          }
+        },
+        {
+          "section_name": "interventions",
+          "heading": "Interventions & Regimens",
+          "content": "- [DRUG] Muraglitazar",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.armsInterventionsModule"
+          }
+        },
+        {
+          "section_name": "outcomes",
+          "heading": "Study Outcomes & Endpoints",
+          "content": "Primary Outcome Measures:\n- Compare change from baseline in HbA1c after 24 weeks of treatment with muraglitazar + glyburide vs placebo + glyburide\n\nSecondary Outcome Measures:\n- Change in FPG from basline to W24, proportion of subjects receiving therapeutic response at W24, percent change of fasting lipid levels from baseline to W11/12, change in hs-CRP from baseline to W24",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.outcomesModule"
+          }
+        },
+        {
+          "section_name": "eligibility",
+          "heading": "Eligibility Criteria",
+          "content": "Age Range: 18 Years to 70 Years\nSex: ALL\nHealthy Volunteers: False\n\nInclusion Criteria:\n\n* Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL.\n\nExclusion Criteria:\n\n* History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or endocrine disease.",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.eligibilityModule"
+          }
+        },
+        {
+          "section_name": "contacts_locations",
+          "heading": "Study Contacts & Locations",
+          "content": "Study Facility Locations: 149 site(s) registered.\n- Local Institution, Anniston, Alabama, United States\n- Local Institution, Hoover, Alabama, United States\n- Local Institution, Huntsville, Alabama, United States\n- Local Institution, Mobile, Alabama, United States\n- Local Institution, Mesa, Arizona, United States\n- Local Institution, Phoenix, Arizona, United States\n- Local Institution, Tucson, Arizona, United States\n- Local Institution, Little Rock, Arkansas, United States\n- Local Institution, Encinitas, California, United States\n- Local Institution, Long Beach, California, United States",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.contactsLocationsModule"
+          }
+        }
+      ],
+      "additional_information": {
+        "contacts_locations": {
+          "locations": [
+            {
+              "facility": "Local Institution",
+              "city": "Anniston",
+              "state": "Alabama",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Hoover",
+              "state": "Alabama",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Huntsville",
+              "state": "Alabama",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Mobile",
+              "state": "Alabama",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Mesa",
+              "state": "Arizona",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Tucson",
+              "state": "Arizona",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Little Rock",
+              "state": "Arkansas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Encinitas",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Long Beach",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Los Angeles",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Mission Viejo",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Pasadena",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "San Diego",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Walnut Creek",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Westlake Village",
+              "state": "California",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Colorado Springs",
+              "state": "Colorado",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Denver",
+              "state": "Colorado",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Loveland",
+              "state": "Colorado",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Wheat Ridge",
+              "state": "Colorado",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Chipley",
+              "state": "Florida",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Miami",
+              "state": "Florida",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "New Port Richey",
+              "state": "Florida",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Pinellas Park",
+              "state": "Florida",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Vero Beach",
+              "state": "Florida",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Winter Park",
+              "state": "Florida",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Dunwoody",
+              "state": "Georgia",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Chicago",
+              "state": "Illinois",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Overland Park",
+              "state": "Kansas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Lexington",
+              "state": "Kentucky",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Slidell",
+              "state": "Louisiana",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Chester",
+              "state": "Maryland",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Silver Springs",
+              "state": "Maryland",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Springfield",
+              "state": "Massachusetts",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Berkley",
+              "state": "Michigan",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Detroit",
+              "state": "Michigan",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Arden Hills",
+              "state": "Minnesota",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Gulfport",
+              "state": "Mississippi",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Excelsior Springs",
+              "state": "Missouri",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Kansas City",
+              "state": "Missouri",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "St Louis",
+              "state": "Missouri",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "East Syracuse",
+              "state": "New York",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Charlotte",
+              "state": "North Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Greensboro",
+              "state": "North Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Hickory",
+              "state": "North Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Huntersville",
+              "state": "North Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Morehead City",
+              "state": "North Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Wilmington",
+              "state": "North Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Cincinnati",
+              "state": "Ohio",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Oklahoma City",
+              "state": "Oklahoma",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Tulsa",
+              "state": "Oklahoma",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Corvallis",
+              "state": "Oregon",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Eugene",
+              "state": "Oregon",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Portland",
+              "state": "Oregon",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Altoona",
+              "state": "Pennsylvania",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Philadelphia",
+              "state": "Pennsylvania",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Cranston",
+              "state": "Rhode Island",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Anderson",
+              "state": "South Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Duncan",
+              "state": "South Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Simpsonville",
+              "state": "South Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Summerville",
+              "state": "South Carolina",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Bristol",
+              "state": "Tennessee",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Kingsport",
+              "state": "Tennessee",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Knoxville",
+              "state": "Tennessee",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Memphis",
+              "state": "Tennessee",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Dallas",
+              "state": "Texas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Houston",
+              "state": "Texas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Irving",
+              "state": "Texas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Lake Jackson",
+              "state": "Texas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "San Antonio",
+              "state": "Texas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "The Colony",
+              "state": "Texas",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Olympia",
+              "state": "Washington",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Bluefield",
+              "state": "West Virginia",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Marshfield",
+              "state": "Wisconsin",
+              "country": "United States"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Bah\u00eda Blanca",
+              "state": "Buenas Aires",
+              "country": "Argentina"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Buenos Aires",
+              "state": "Buenos Aires",
+              "country": "Argentina"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Capital Federal",
+              "state": "Buenos Aires",
+              "country": "Argentina"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "C\u00f3rdoba",
+              "state": "C\u00f3rdoba Province",
+              "country": "Argentina"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Mendoza",
+              "state": "Mendoza Province",
+              "country": "Argentina"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Canberra",
+              "state": "New South Wales",
+              "country": "Australia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Wollongong",
+              "state": "New South Wales",
+              "country": "Australia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Brisbane",
+              "state": "Queensland",
+              "country": "Australia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Curitiba",
+              "state": "Paran\u00e1",
+              "country": "Brazil"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Bel\u00e9m",
+              "state": "Par\u00e1",
+              "country": "Brazil"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Porto Alegre",
+              "state": "Rio Grande do Sul",
+              "country": "Brazil"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Mar\u00edlia",
+              "state": "S\u00e3o Paulo",
+              "country": "Brazil"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Corunna",
+              "state": "Ontario",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Hawksbury",
+              "state": "Ontario",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Sarnia",
+              "state": "Ontario",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Gatineau",
+              "state": "Quebec",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Laval",
+              "state": "Quebec",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Saint-J\u00e9r\u00f4me",
+              "state": "Quebec",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "St. John's",
+              "country": "Canada"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Rosiers",
+              "state": "D'Egletons",
+              "country": "France"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Labarthe",
+              "state": "Sur Leze",
+              "country": "France"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Husseren-Wesserling",
+              "state": "Wesserling",
+              "country": "France"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Broglie",
+              "country": "France"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Chartres",
+              "country": "France"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "G\u00e9menos",
+              "country": "France"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Viernheim",
+              "state": "Schwenningen",
+              "country": "Germany"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Dresden",
+              "country": "Germany"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Hamburg",
+              "country": "Germany"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Nuremberg",
+              "country": "Germany"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Ravenna",
+              "country": "Italy"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Durango",
+              "state": "Durango",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Tijuana",
+              "state": "Estado de Baja California",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Le\u00f3n",
+              "state": "Guanajuato",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Mexico City",
+              "state": "Mexico City",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Alburquerque",
+              "state": "New Mexico",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Monterrey",
+              "state": "Nuevo Le\u00f3n",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "M\u00e9rida",
+              "state": "Yucat\u00e1n",
+              "country": "Mexico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Deurne",
+              "country": "Netherlands"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Ewyk",
+              "country": "Netherlands"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Hoogvliet",
+              "country": "Netherlands"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Rijswijk",
+              "country": "Netherlands"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "The Hague",
+              "country": "Netherlands"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Zwijndrecht",
+              "country": "Netherlands"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Arequipa",
+              "state": "Arequipa",
+              "country": "Peru"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Lima",
+              "state": "Lima Province",
+              "country": "Peru"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Carolina",
+              "country": "Puerto Rico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Guaynabo",
+              "country": "Puerto Rico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Ponce",
+              "country": "Puerto Rico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Rio Piedras",
+              "country": "Puerto Rico"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Moscow",
+              "country": "Russia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Saint Petersburg",
+              "country": "Russia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Saratov",
+              "country": "Russia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Smolensk",
+              "country": "Russia"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Santiago",
+              "state": "De Compostela",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Las Palmas",
+              "state": "DE",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "A Coru\u00f1a",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Alicante",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Cadiz",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Granada",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Madrid",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Oviedo",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Santa Cruz de Tenerife",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Teruel",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Zaragoza",
+              "country": "Spain"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Soham",
+              "state": "Cambridgeshire",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Bexhill-on-Sea",
+              "state": "East Sussex",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Sunbury-on-Thames",
+              "state": "Greater London",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Aldershot",
+              "state": "Hampshire",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Glasgow",
+              "state": "Lanarkshire",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Blackpool",
+              "state": "Lancashire",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Harrow",
+              "state": "Middlesex",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Hastings",
+              "state": "Sussex",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Bath",
+              "state": "Wiltshire",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Inkberrow",
+              "state": "Worcestershire",
+              "country": "United Kingdom"
+            },
+            {
+              "facility": "Local Institution",
+              "city": "Swan Lane",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      }
+    },
+    "extracted_fields_count": 13,
+    "missing_fields_count": 7,
+    "message": "Canonical protocol extraction successful."
+  },
+  "analysis_result": {
+    "study_id": "NCT00162175",
+    "facts": {
+      "study_id": "NCT00162175",
+      "study_title": {
+        "value": null,
+        "status": "NOT_FOUND",
+        "source_evidence_ids": [],
+        "notes": null
+      },
+      "study_type": {
+        "value": null,
+        "status": "NOT_FOUND",
+        "source_evidence_ids": [],
+        "notes": null
+      },
+      "phase": {
+        "value": null,
+        "status": "NOT_FOUND",
+        "source_evidence_ids": [],
+        "notes": null
+      },
+      "condition": [
+        {
+          "value": "Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00162175_design_010"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Section: Study Contacts & Locations\nStudy Facility Locations: 149 site(s) registered.\n- Local Institution, Anniston, Alabama, United States\n- Local Institution, Hoover, Alabama, United States\n- Local Institution, Huntsville, Alabama, United States\n- Local Institution, Mobile, Alabama, United States\n- Local Institution, Mesa, Arizona, United States\n- Local Institution, Phoenix, Arizona, United States\n- Local Institution, Tucson, Arizona, United States\n- Local Institution, Little Rock, Arkansas, United States\n- Local Institution, Encinitas, California, United States\n- Local Institution, Long Beach, California, United States",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00162175_contacts_locations_014"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Target Conditions / Indications:\n- Metabolics Diabetes Nos",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00162175_conditions_002"
+          ],
+          "notes": null
+        }
+      ],
+      "population": {
+        "value": "Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT00162175_design_010"
+        ],
+        "notes": null
+      },
+      "interventions": [
+        {
+          "value": "Muraglitazar (DRUG)",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00162175_interventions_003"
+          ],
+          "notes": null
+        }
+      ],
+      "comparators": [],
+      "objectives": {
+        "primary": [],
+        "secondary": []
+      },
+      "eligibility": {
+        "inclusion": [
+          {
+            "value": "Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00162175_eligibility_005"
+            ],
+            "notes": null
+          }
+        ],
+        "exclusion": [
+          {
+            "value": "History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or endocrine disease.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00162175_eligibility_006",
+              "NCT00162175_eligibility_013"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Age Range: 18 Years to 70 Years",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00162175_eligibility_013"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Healthy Volunteers: False",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00162175_eligibility_013"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00162175_eligibility_013"
+            ],
+            "notes": null
+          }
+        ]
+      },
+      "duration": {
+        "value": null,
+        "status": "NOT_FOUND",
+        "source_evidence_ids": [],
+        "notes": null
+      },
+      "procedures": [],
+      "outcomes": {
+        "primary": [],
+        "secondary": []
+      },
+      "risks": [],
+      "benefits": [],
+      "additional_facts": [
+        {
+          "value": "Section: Study Contacts & Locations\nStudy Facility Locations: 149 site(s) registered.\n- Local Institution, Anniston, Alabama, United States\n- Local Institution, Hoover, Alabama, United States\n- Local Institution, Huntsville, Alabama, United States\n- Local Institution, Mobile, Alabama, United States\n- Local Institution, Mesa, Arizona, United States\n- Local Institution, Phoenix, Arizona, United States\n- Local Institution, Tucson, Arizona, United States\n- Local Institution, Little Rock, Arkansas, United States\n- Local Institution, Encinitas, California, United States\n- Local Institution, Long Beach, California, United States",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00162175_contacts_locations_014"
+          ],
+          "notes": null
+        }
+      ]
+    },
+    "analysis_status": "success",
+    "message": "Comprehensive protocol analysis complete."
+  },
+  "icf_result": {
+    "study_id": "NCT00162175",
+    "template": {
+      "study_id": "NCT00162175",
+      "template_id": "builtin-v1",
+      "filename": "Default ICF layout",
+      "kind": "default",
+      "sha256": "builtin-v1",
+      "mapped_sections": [
+        "study_title",
+        "invitation",
+        "purpose",
+        "why_asked",
+        "procedures",
+        "duration",
+        "interventions",
+        "risks",
+        "benefits",
+        "alternatives",
+        "voluntary",
+        "confidentiality",
+        "questions_contact"
+      ],
+      "missing_sections": [],
+      "warnings": []
+    },
+    "document_preview": {
+      "standard": "Standard ICF | Study NCT00162175 | Revision 1\nAI-generated draft requiring appropriate human review. Internal approval is not regulatory or IRB approval. Unmapped template wording is unverified and must be checked against the study protocol.\nINFORMED CONSENT FORM\nParticipant Information and Consent for a Clinical Study\nStudy Title\nClinical Trial Protocol NCT00162175\nProtocol / Study Number\nNCT00162175\nClinical Trial Registration No. (CTRI / ClinicalTrials.gov)\nNCT00162175\nStudy Phase\nNOT PROVIDED IN STUDY PROTOCOL\nInvestigational Product / Intervention\nParticipants will be assigned to or receive the following study treatments or regimens:\n- Muraglitazar (DRUG)\nSponsor\nNOT PROVIDED IN STUDY PROTOCOL\nPrincipal Investigator\nStudy Site / Institution\nNOT PROVIDED IN STUDY PROTOCOL\nEthics Committee (name and approval no.)\nNOT PROVIDED IN STUDY PROTOCOL\nICF Version and Date\nRevision 1 dated 2026-10-05\nKEY INFORMATION SUMMARY\nStudy Title: Clinical Trial Protocol NCT00162175\n\nStudy Purpose: \n\nMain Interventions: Participants will be assigned to or receive the following study treatments or regimens:\n- Muraglitazar (DRUG)\n\nDuration:\n1. Invitation and Introduction\nYou are being invited to participate in a clinical research study focused on Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants. Before deciding whether to take part, please read this consent document carefully.\nPlease take your time to read this form. You may discuss it with your family, friends or your own doctor before deciding.\n2. Why You Are Being Asked to Participate\nYou are being asked to participate in this study because you meet the eligibility criteria for the study population.\n3. Study Treatment / Investigational Product\nParticipants will be assigned to or receive the following study treatments or regimens:\n- Muraglitazar (DRUG)\n4. Study Procedures and Visit Schedule\nDuring this study, participants will undergo regular health assessments and receive the following study treatment regimens:\n- Muraglitazar (DRUG)\n5. Voluntary Participation and Withdrawal\nParticipation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.\n6. Confidentiality and Data Protection\nYour study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.\n7. Participant Consent Statement\nPlease tick each box to confirm.\n\u2610  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated 2026-10-05, in a language I understand.\n\u2610  I have had the opportunity to ask questions, and my questions have been answered to my satisfaction.\n\u2610  I understand that my participation is voluntary and that I may withdraw at any time without giving a reason and without affecting my medical care or legal rights.\n\u2610  I understand that authorised representatives of the sponsor, the Ethics Committee and regulatory authorities may access my medical and study records, and I give permission for this.\n\u2610  I understand that I will receive a signed and dated copy of this form.\n\u2610  I agree to take part in this study.\n8. Signatures\nParticipant\n[PARTICIPANT_NAME]\n[PARTICIPANT_SIGNATURE_OR_THUMB_IMPRESSION]\n[PARTICIPANT_SIGN_DATE]\nLegally Acceptable Representative (LAR)\n[LAR_NAME]  Relationship: [LAR_RELATIONSHIP]\n[LAR_SIGNATURE]\n[LAR_SIGN_DATE]\nImpartial Witness\n[WITNESS_NAME]\n[WITNESS_SIGNATURE]\n[WITNESS_SIGN_DATE]\nPerson Obtaining Consent\n[PERSON_OBTAINING_CONSENT_NAME]  Role: [CONSENT_TAKER_ROLE]\n[PERSON_OBTAINING_CONSENT_SIGNATURE]\n[CONSENT_DATE]\nPrincipal Investigator\n[INVESTIGATOR_SIGNATURE]\n[INVESTIGATOR_SIGN_DATE]",
+      "patient_friendly": "Patient-Friendly ICF | Study NCT00162175 | Revision 1\nAI-generated draft requiring appropriate human review. Internal approval is not regulatory or IRB approval. Unmapped template wording is unverified and must be checked against the study protocol.\nINFORMED CONSENT FORM\nParticipant Information and Consent for a Clinical Study\nStudy Title\nClinical Trial Protocol NCT00162175\nProtocol / Study Number\nNCT00162175\nClinical Trial Registration No. (CTRI / ClinicalTrials.gov)\nNCT00162175\nStudy Phase\nNOT PROVIDED IN STUDY PROTOCOL\nInvestigational Product / Intervention\nYou will receive or be assigned to one of these study treatment options:\n- Muraglitazar (DRUG)\nSponsor\nNOT PROVIDED IN STUDY PROTOCOL\nPrincipal Investigator\nStudy Site / Institution\nNOT PROVIDED IN STUDY PROTOCOL\nEthics Committee (name and approval no.)\nNOT PROVIDED IN STUDY PROTOCOL\nICF Version and Date\nRevision 1 dated 2026-10-05\nKEY INFORMATION SUMMARY\nStudy Title: Clinical Trial Protocol NCT00162175\n\nStudy Purpose: \n\nMain Interventions: You will receive or be assigned to one of these study treatment options:\n- Muraglitazar (DRUG)\n\nDuration:\n1. Invitation and Introduction\nWe invite you to take part in a medical research study about Section: Study Design & Population Parameters\nStudy Type: treatment testing\nPhase: PHASE3\nAllocation: assigned by chance (for example, like flipping a coin)\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants. Before deciding whether to take part, please read this consent document carefully.\nPlease take your time to read this form. You may discuss it with your family, friends or your own doctor before deciding.\n2. Why You Are Being Asked to Participate\nYou are being asked to participate in this study because you meet the eligibility criteria for the study population.\n3. Study Treatment / Investigational Product\nYou will receive or be assigned to one of these study treatment options:\n- Muraglitazar (DRUG)\n4. Study Procedures and Visit Schedule\nDuring this study, participants will have regular health assessments and receive the following study treatment regimens:\n- Muraglitazar (DRUG)\n5. Voluntary Participation and Withdrawal\nParticipation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.\n6. Confidentiality and Data Protection\nYour study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.\n7. Participant Consent Statement\nPlease tick each box to confirm.\n\u2610  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated 2026-10-05, in a language I understand.\n\u2610  I have had the opportunity to ask questions, and my questions have been answered to my satisfaction.\n\u2610  I understand that my participation is voluntary and that I may withdraw at any time without giving a reason and without affecting my medical care or legal rights.\n\u2610  I understand that authorised representatives of the sponsor, the Ethics Committee and regulatory authorities may access my medical and study records, and I give permission for this.\n\u2610  I understand that I will receive a signed and dated copy of this form.\n\u2610  I agree to take part in this study.\n8. Signatures\nParticipant\n[PARTICIPANT_NAME]\n[PARTICIPANT_SIGNATURE_OR_THUMB_IMPRESSION]\n[PARTICIPANT_SIGN_DATE]\nLegally Acceptable Representative (LAR)\n[LAR_NAME]  Relationship: [LAR_RELATIONSHIP]\n[LAR_SIGNATURE]\n[LAR_SIGN_DATE]\nImpartial Witness\n[WITNESS_NAME]\n[WITNESS_SIGNATURE]\n[WITNESS_SIGN_DATE]\nPerson Obtaining Consent\n[PERSON_OBTAINING_CONSENT_NAME]  Role: [CONSENT_TAKER_ROLE]\n[PERSON_OBTAINING_CONSENT_SIGNATURE]\n[CONSENT_DATE]\nPrincipal Investigator\n[INVESTIGATOR_SIGNATURE]\n[INVESTIGATOR_SIGN_DATE]"
+    },
+    "validation_report": {
+      "study_id": "NCT00162175",
+      "revision": 1,
+      "overall_status": "REQUIRES_REVIEW",
+      "overall_score": 93.7,
+      "groundedness_score": 100.0,
+      "completeness_score": 100.0,
+      "readability_score": 80.0,
+      "traceability_score": 71.4,
+      "checks": [
+        {
+          "check_id": "groundedness",
+          "check_name": "Groundedness & Hallucination Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "No ungrounded claims or invented contacts detected.",
+          "flagged_items": []
+        },
+        {
+          "check_id": "omission",
+          "check_name": "Fact Completeness & Coverage Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "Reflected 2 out of 2 core protocol fact domain(s) (100% coverage).",
+          "flagged_items": []
+        },
+        {
+          "check_id": "not_found_integrity",
+          "check_name": "NOT_FOUND Placeholders Integrity Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "100% NOT_FOUND section placeholder integrity verified.",
+          "flagged_items": []
+        },
+        {
+          "check_id": "readability",
+          "check_name": "Health Literacy & Readability Check",
+          "status": "WARNING",
+          "score": 80.0,
+          "details": "Estimated reading level: Grade 28.0 (Avg sentence length: 23.0 words).",
+          "flagged_items": [
+            "Estimated reading grade level (28.0) exceeds recommended 8th grade target."
+          ]
+        },
+        {
+          "check_id": "traceability",
+          "check_name": "Source Evidence Traceability Check",
+          "status": "WARNING",
+          "score": 71.4,
+          "details": "5 of 7 SUPPORTED section(s) maintain valid source chunk ID traceability.",
+          "flagged_items": [
+            "Section 'Voluntary Participation' is marked SUPPORTED but has empty source_evidence_ids.",
+            "Section 'Confidentiality' is marked SUPPORTED but has empty source_evidence_ids."
+          ]
+        },
+        {
+          "check_id": "section_consistency",
+          "check_name": "Structured & Patient-Friendly Section Parity Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "100% section parity verified (7 evidence-supported section(s)).",
+          "flagged_items": []
+        }
+      ],
+      "recommendations": [
+        "Review flagged warnings to optimize ICF clarity and factual coverage."
+      ]
+    },
+    "icf_draft": {
+      "sections": [
+        {
+          "section_id": "invitation",
+          "title": "Invitation to Participate",
+          "content": "You are being invited to participate in a clinical research study focused on Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants. Before deciding whether to take part, please read this consent document carefully.",
+          "source_evidence_ids": [
+            "NCT00162175_design_010"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "why_asked",
+          "title": "Why You Are Being Asked",
+          "content": "You are being asked to participate because you meet the following study eligibility criteria:\n\nInclusion Criteria:\n- Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL\n\nExclusion Criteria:\n- History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or endocrine disease\n- Age Range: 18 Years to 70 Years\n- Healthy Volunteers: False\n- Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL",
+          "source_evidence_ids": [
+            "NCT00162175_eligibility_005",
+            "NCT00162175_eligibility_006",
+            "NCT00162175_eligibility_013"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "procedures",
+          "title": "Study Procedures",
+          "content": "During this study, participants will undergo regular health assessments and receive the following study treatment regimens:\n- Muraglitazar (DRUG)",
+          "source_evidence_ids": [
+            "NCT00162175_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "interventions",
+          "title": "Study Interventions / Treatments",
+          "content": "Participants will be assigned to or receive the following study treatments or regimens:\n- Muraglitazar (DRUG)",
+          "source_evidence_ids": [
+            "NCT00162175_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "voluntary",
+          "title": "Voluntary Participation",
+          "content": "Participation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "confidentiality",
+          "title": "Confidentiality",
+          "content": "Your study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "questions_contact",
+          "title": "Questions / Contact Information",
+          "content": "Section: Study Contacts & Locations\nStudy Facility Locations: 149 site(s) registered.\n- Local Institution, Anniston, Alabama, United States\n- Local Institution, Hoover, Alabama, United States\n- Local Institution, Huntsville, Alabama, United States\n- Local Institution, Mobile, Alabama, United States\n- Local Institution, Mesa, Arizona, United States\n- Local Institution, Phoenix, Arizona, United States\n- Local Institution, Tucson, Arizona, United States\n- Local Institution, Little Rock, Arkansas, United States\n- Local Institution, Encinitas, California, United States\n- Local Institution, Long Beach, California, United States",
+          "source_evidence_ids": [
+            "NCT00162175_contacts_locations_014"
+          ],
+          "status": "SUPPORTED"
+        }
+      ],
+      "revision": 1
+    },
+    "patient_friendly_icf": {
+      "sections": [
+        {
+          "section_id": "invitation",
+          "title": "Invitation to Participate",
+          "content": "We invite you to take part in a medical research study about Section: Study Design & Population Parameters\nStudy Type: treatment testing\nPhase: PHASE3\nAllocation: assigned by chance (for example, like flipping a coin)\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: DOUBLE\nEnrollment Target: 534 participants. Before deciding whether to take part, please read this consent document carefully.",
+          "source_evidence_ids": [
+            "NCT00162175_design_010"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "why_asked",
+          "title": "Why You Are Being Asked",
+          "content": "You are invited to join because you meet these study participation rules:\n\nYou may be able to join if you meet these rules:\n- Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL\n\nYou cannot join if any of these apply to you:\n- History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or endocrine disease\n- Age Range: 18 Years to 70 Years\n- Healthy Volunteers: False\n- Type 2 Diabetes, HbA1c \\> 7.0% and \\< 10.0%, mean serum triglyceride \\< 600 mg/dL, body mass index \\< 41 kg/m2, fasting c-peptide . 1.5 ng/mL",
+          "source_evidence_ids": [
+            "NCT00162175_eligibility_005",
+            "NCT00162175_eligibility_006",
+            "NCT00162175_eligibility_013"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "procedures",
+          "title": "Study Procedures",
+          "content": "During this study, participants will have regular health assessments and receive the following study treatment regimens:\n- Muraglitazar (DRUG)",
+          "source_evidence_ids": [
+            "NCT00162175_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "interventions",
+          "title": "Study Interventions / Treatments",
+          "content": "You will receive or be assigned to one of these study treatment options:\n- Muraglitazar (DRUG)",
+          "source_evidence_ids": [
+            "NCT00162175_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "voluntary",
+          "title": "Voluntary Participation",
+          "content": "Participation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "confidentiality",
+          "title": "Confidentiality",
+          "content": "Your study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "questions_contact",
+          "title": "Questions / Contact Information",
+          "content": "Section: Study Contacts & Locations\nStudy Facility Locations: 149 site(s) registered.\n- Local Institution, Anniston, Alabama, United States\n- Local Institution, Hoover, Alabama, United States\n- Local Institution, Huntsville, Alabama, United States\n- Local Institution, Mobile, Alabama, United States\n- Local Institution, Mesa, Arizona, United States\n- Local Institution, Phoenix, Arizona, United States\n- Local Institution, Tucson, Arizona, United States\n- Local Institution, Little Rock, Arkansas, United States\n- Local Institution, Encinitas, California, United States\n- Local Institution, Long Beach, California, United States",
+          "source_evidence_ids": [
+            "NCT00162175_contacts_locations_014"
+          ],
+          "status": "SUPPORTED"
+        }
+      ],
+      "revision": 1
+    },
+    "revision": 1,
+    "generation_status": "success",
+    "message": "ICF content generation complete."
+  },
+  "indexed_studies": [
+    "NCT00081328",
+    "NCT00162175"
+  ]
+}

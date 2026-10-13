@@ -1,0 +1,28 @@
+{
+  "study_id": "TEST_TEMPLATE_MISMATCH",
+  "template_id": "b3368d7b854d4117bf31e674b6afa068",
+  "filename": "new_template.docx",
+  "kind": "custom",
+  "sha256": "7db1078e1d0be4b78b98aaf609a12338fefcd02a72db7888a930ebbc652cdcf9",
+  "mapped_sections": [
+    "purpose",
+    "voluntary"
+  ],
+  "missing_sections": [
+    "study_title",
+    "invitation",
+    "why_asked",
+    "procedures",
+    "duration",
+    "interventions",
+    "risks",
+    "benefits",
+    "alternatives",
+    "confidentiality",
+    "questions_contact"
+  ],
+  "warnings": [
+    "Unmapped template text is retained as unverified template wording. Review it for sample clinical claims before approval.",
+    "Missing template sections will not be added to the custom layout: study_title, invitation, why_asked, procedures, duration, interventions, risks, benefits, alternatives, confidentiality, questions_contact."
+  ]
+}

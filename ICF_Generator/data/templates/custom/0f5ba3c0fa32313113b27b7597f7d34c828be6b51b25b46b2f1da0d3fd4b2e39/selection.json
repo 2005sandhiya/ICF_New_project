@@ -1,0 +1,26 @@
+{
+  "study_id": "TEST_A",
+  "template_id": "07d8245d7ffc403b968aecc70a08edb3",
+  "filename": "custom.docx",
+  "kind": "custom",
+  "sha256": "bde563a38b273954921154a230ada7353da613258e38463442d1c59258ae4fb1",
+  "mapped_sections": [
+    "questions_contact",
+    "confidentiality",
+    "voluntary",
+    "alternatives",
+    "benefits",
+    "risks",
+    "interventions",
+    "duration",
+    "procedures",
+    "why_asked",
+    "purpose",
+    "invitation",
+    "study_title"
+  ],
+  "missing_sections": [],
+  "warnings": [
+    "Unmapped template text is retained as unverified template wording. Review it for sample clinical claims before approval."
+  ]
+}

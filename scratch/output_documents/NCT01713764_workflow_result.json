@@ -1,0 +1,875 @@
+{
+  "study_id": "NCT01713764",
+  "canonical_protocol": {
+    "status": "canonicalized",
+    "source": {
+      "filename": "ctg-studies.json",
+      "type": "json"
+    },
+    "protocol": {
+      "study_id": "NCT01713764",
+      "title": "A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics",
+      "official_title": "A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics",
+      "study_type": "INTERVENTIONAL",
+      "phase": "PHASE2",
+      "overall_status": "COMPLETED",
+      "conditions": [
+        "Diabetes Type II"
+      ],
+      "interventions": [
+        {
+          "name": "Low Carbohydrate Diet",
+          "type": "BEHAVIORAL",
+          "description": null
+        },
+        {
+          "name": "American Diabetes Association Diet",
+          "type": "BEHAVIORAL",
+          "description": null
+        },
+        {
+          "name": "Mindfulness and Positive Affect Skills",
+          "type": "BEHAVIORAL",
+          "description": null
+        }
+      ],
+      "comparators": [],
+      "objectives": {
+        "primary": [
+          "The study is a small pilot, designed to provide data regarding the feasibility and acceptability of conducting such a study on a larger scale. The present study is a randomized controlled clinical trial comparing two mindfulness-based lifestyle modification programs to help people manage diabetes and lose weight, one using on a low-carbohydrate diet (LC) and the other using a moderate-carbohydrate diet promoted by the American Diabetes Association (ADA). Intervention content will include information about nutrition (carbohydrate restriction or American Diabetes Association recommended diet) and emotion regulation and mindful eating strategies."
+        ],
+        "secondary": [
+          "Approximately 40 individuals with Type II diabetes or prediabetes will be randomized in a 1:1 ratio to treatment groups. Groups will meet for 12 weekly sessions, then approximately biweekly for 3 sessions, for a total of 15 1.5-2 hour sessions over 4.5 months. Participants will be evaluated at 0, 1 month, 3 months, and 6 months. Our outcome of interest is HbA1c (glycated hemoglobin, a measure indicative of blood glucose levels and tied to diabetes severity)."
+        ]
+      },
+      "eligibility": {
+        "inclusion": [
+          "Diabetes mellitus, Type 2.",
+          "HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis.",
+          "Aged 18 years old and older",
+          "BMI 25 and above."
+        ],
+        "exclusion": [
+          "Condition that will make it difficult for participation. Such as:",
+          "cancer",
+          "liver failure",
+          "unstable coronary artery disease",
+          "severe emphysema",
+          "bulimia or strong history of bulimia",
+          "vegan",
+          "Laboratory evidence of organ dysfunction",
+          "Abnormal kidney function (serum creatinine)",
+          "thyroid stimulating hormone out of normal range",
+          "Previous use or new changes in medications that can interfere with the measures used in the study:",
+          "current use of insulin and no immediate plans to start or increase diabetic mediations.",
+          "more than 3 oral hypoglycemic medications.",
+          "use of systemic (oral or IV) corticosteroids in the 6 months prior",
+          "severe autoimmune disorders",
+          "initiation of psychiatric medications in past 2 months.",
+          "Weight loss confounds",
+          "Current use of weight loss medications or supplements.",
+          "History of or planned weight loss surgery.",
+          "Other",
+          "Pregnant or planning to get pregnant in the next year, breastfeeding, less than 6 months post-partum.",
+          "Unable or unwilling to do home glucose monitoring."
+        ],
+        "raw_text": "Inclusion Criteria:\n\n* Diabetes mellitus, Type 2.\n* HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis.\n* Aged 18 years old and older\n* BMI 25 and above.\n\nExclusion Criteria:\n\n* Condition that will make it difficult for participation. Such as:\n\n  * cancer\n  * liver failure\n  * unstable coronary artery disease\n  * severe emphysema\n  * bulimia or strong history of bulimia\n  * vegan\n* Laboratory evidence of organ dysfunction\n\n  * Abnormal kidney function (serum creatinine)\n  * thyroid stimulating hormone out of normal range\n* Previous use or new changes in medications that can interfere with the measures used in the study:\n\n  * current use of insulin and no immediate plans to start or increase diabetic mediations.\n  * more than 3 oral hypoglycemic medications.\n  * use of systemic (oral or IV) corticosteroids in the 6 months prior\n  * severe autoimmune disorders\n  * initiation of psychiatric medications in past 2 months.\n* Weight loss confounds\n\n  * Current use of weight loss medications or supplements.\n  * History of or planned weight loss surgery.\n* Other\n\n  * Pregnant or planning to get pregnant in the next year, breastfeeding, less than 6 months post-partum.\n  * Unable or unwilling to do home glucose monitoring.",
+        "minimum_age": "18 Years",
+        "maximum_age": null,
+        "sex": "ALL",
+        "healthy_volunteers": false
+      },
+      "population": null,
+      "duration": null,
+      "procedures": [],
+      "outcomes": {
+        "primary": [
+          "Hemoglobin A1c (We test whether Hemoglobin A1c changes from pre-intervention to 3 months. The key outcome measure will compare the two diet groups, but we will also assess whether statistically significant changes occur within groups from pre-intervention to 3 months.)"
+        ],
+        "secondary": [
+          "Hemoglobin A1c (We test whether Hemoglobin A1c changes from pre-intervention to 6 months. The key outcome measure will compare the two diet groups, but we will also assess whether statistically significant changes occur within groups from pre-intervention to 6 months.)"
+        ]
+      },
+      "risks": [],
+      "benefits": [],
+      "source_sections": [
+        {
+          "section_name": "description",
+          "heading": "Brief Summary & Detailed Description",
+          "content": "The study is a small pilot, designed to provide data regarding the feasibility and acceptability of conducting such a study on a larger scale. The present study is a randomized controlled clinical trial comparing two mindfulness-based lifestyle modification programs to help people manage diabetes and lose weight, one using on a low-carbohydrate diet (LC) and the other using a moderate-carbohydrate diet promoted by the American Diabetes Association (ADA). Intervention content will include information about nutrition (carbohydrate restriction or American Diabetes Association recommended diet) and emotion regulation and mindful eating strategies.\n\nApproximately 40 individuals with Type II diabetes or prediabetes will be randomized in a 1:1 ratio to treatment groups. Groups will meet for 12 weekly sessions, then approximately biweekly for 3 sessions, for a total of 15 1.5-2 hour sessions over 4.5 months. Participants will be evaluated at 0, 1 month, 3 months, and 6 months. Our outcome of interest is HbA1c (glycated hemoglobin, a measure indicative of blood glucose levels and tied to diabetes severity).",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.descriptionModule"
+          }
+        },
+        {
+          "section_name": "design",
+          "heading": "Study Design & Population Parameters",
+          "content": "Study Type: INTERVENTIONAL\nPhase: PHASE2\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.designModule"
+          }
+        },
+        {
+          "section_name": "interventions",
+          "heading": "Interventions & Regimens",
+          "content": "- [BEHAVIORAL] Low Carbohydrate Diet\n- [BEHAVIORAL] American Diabetes Association Diet\n- [BEHAVIORAL] Mindfulness and Positive Affect Skills\n- Arm: : Participants will be instructed to follow a low carbohydrate diet: carbohydrate intake 10-50 grams a day not including fiber. Foods permitted include: meats, poultry, fish, eggs, cheese, cream, some nuts and seeds, green leafy vegetables, and most other non-starchy vegetables. Because most individuals self-limit caloric intake, no calorie restriction will be recommended.\n\nParticipants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness.\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat.\n\nParticipants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness.",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.armsInterventionsModule"
+          }
+        },
+        {
+          "section_name": "outcomes",
+          "heading": "Study Outcomes & Endpoints",
+          "content": "Primary Outcome Measures:\n- Hemoglobin A1c (We test whether Hemoglobin A1c changes from pre-intervention to 3 months. The key outcome measure will compare the two diet groups, but we will also assess whether statistically significant changes occur within groups from pre-intervention to 3 months.)\n\nSecondary Outcome Measures:\n- Hemoglobin A1c (We test whether Hemoglobin A1c changes from pre-intervention to 6 months. The key outcome measure will compare the two diet groups, but we will also assess whether statistically significant changes occur within groups from pre-intervention to 6 months.)",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.outcomesModule"
+          }
+        },
+        {
+          "section_name": "eligibility",
+          "heading": "Eligibility Criteria",
+          "content": "Age Range: 18 Years to N/A\nSex: ALL\nHealthy Volunteers: False\n\nInclusion Criteria:\n\n* Diabetes mellitus, Type 2.\n* HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis.\n* Aged 18 years old and older\n* BMI 25 and above.\n\nExclusion Criteria:\n\n* Condition that will make it difficult for participation. Such as:\n\n  * cancer\n  * liver failure\n  * unstable coronary artery disease\n  * severe emphysema\n  * bulimia or strong history of bulimia\n  * vegan\n* Laboratory evidence of organ dysfunction\n\n  * Abnormal kidney function (serum creatinine)\n  * thyroid stimulating hormone out of normal range\n* Previous use or new changes in medications that can interfere with the measures used in the study:\n\n  * current use of insulin and no immediate plans to start or increase diabetic mediations.\n  * more than 3 oral hypoglycemic medications.\n  * use of systemic (oral or IV) corticosteroids in the 6 months prior\n  * severe autoimmune disorders\n  * initiation of psychiatric medications in past 2 months.\n* Weight loss confounds\n\n  * Current use of weight loss medications or supplements.\n  * History of or planned weight loss surgery.\n* Other\n\n  * Pregnant or planning to get pregnant in the next year, breastfeeding, less than 6 months post-partum.\n  * Unable or unwilling to do home glucose monitoring.",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.eligibilityModule"
+          }
+        },
+        {
+          "section_name": "contacts_locations",
+          "heading": "Study Contacts & Locations",
+          "content": "Study Facility Locations: 1 site(s) registered.\n- Osher Center for Integrative Medicine, San Francisco, California, United States",
+          "source_metadata": {
+            "type": "json",
+            "field_path": "protocolSection.contactsLocationsModule"
+          }
+        }
+      ],
+      "additional_information": {
+        "contacts_locations": {
+          "locations": [
+            {
+              "facility": "Osher Center for Integrative Medicine",
+              "city": "San Francisco",
+              "state": "California",
+              "country": "United States"
+            }
+          ]
+        }
+      }
+    },
+    "extracted_fields_count": 14,
+    "missing_fields_count": 6,
+    "message": "Canonical protocol extraction successful."
+  },
+  "analysis_result": {
+    "study_id": "NCT01713764",
+    "facts": {
+      "study_id": "NCT01713764",
+      "study_title": {
+        "value": "A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT01713764_study_identification_001"
+        ],
+        "notes": null
+      },
+      "study_type": {
+        "value": "INTERVENTIONAL",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT01713764_study_identification_001"
+        ],
+        "notes": null
+      },
+      "phase": {
+        "value": "PHASE2",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT01713764_study_identification_001"
+        ],
+        "notes": null
+      },
+      "condition": [
+        {
+          "value": "Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE2\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_design_012"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Section: Study Contacts & Locations\nStudy Facility Locations: 1 site(s) registered.\n- Osher Center for Integrative Medicine, San Francisco, California, United States",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_contacts_locations_018"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Target Conditions / Indications:\n- Diabetes Type II",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_conditions_002"
+          ],
+          "notes": null
+        }
+      ],
+      "population": {
+        "value": "Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE2\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT01713764_design_012"
+        ],
+        "notes": null
+      },
+      "interventions": [
+        {
+          "value": "satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness.",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat.",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness.",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Low Carbohydrate Diet (BEHAVIORAL)",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_003"
+          ],
+          "notes": null
+        },
+        {
+          "value": "American Diabetes Association Diet (BEHAVIORAL)",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_003"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Mindfulness and Positive Affect Skills (BEHAVIORAL)",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_003"
+          ],
+          "notes": null
+        }
+      ],
+      "comparators": [],
+      "objectives": {
+        "primary": [],
+        "secondary": []
+      },
+      "eligibility": {
+        "inclusion": [
+          {
+            "value": "Diabetes mellitus, Type 2.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_006"
+            ],
+            "notes": null
+          },
+          {
+            "value": "HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_006"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Aged 18 years old and older",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_006"
+            ],
+            "notes": null
+          },
+          {
+            "value": "BMI 25 and above.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_006"
+            ],
+            "notes": null
+          }
+        ],
+        "exclusion": [
+          {
+            "value": "Condition that will make it difficult for participation. Such as:",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "unstable coronary artery disease",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "severe emphysema",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "bulimia or strong history of bulimia",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Laboratory evidence of organ dysfunction",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Abnormal kidney function (serum creatinine)",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "thyroid stimulating hormone out of normal range",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Previous use or new changes in medications that can interfere with the measures used in the study:",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "current use of insulin and no immediate plans to start or increase diabetic mediations.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "more than 3 oral hypoglycemic medications.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "use of systemic (oral or IV) corticosteroids in the 6 months prior",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "severe autoimmune disorders",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "initiation of psychiatric medications in past 2 months.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007",
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Weight loss confounds",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Current use of weight loss medications or supplements.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007"
+            ],
+            "notes": null
+          },
+          {
+            "value": "History of or planned weight loss surgery.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Pregnant or planning to get pregnant in the next year, breastfeeding, less than 6 months post-partum.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Unable or unwilling to do home glucose monitoring.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_007"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Age Range: 18 Years to N/A",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Healthy Volunteers: False",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Diabetes mellitus, Type 2.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Aged 18 years old and older",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          },
+          {
+            "value": "BMI 25 and above.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_eligibility_016"
+            ],
+            "notes": null
+          }
+        ]
+      },
+      "duration": {
+        "value": null,
+        "status": "NOT_FOUND",
+        "source_evidence_ids": [],
+        "notes": null
+      },
+      "procedures": [],
+      "outcomes": {
+        "primary": [],
+        "secondary": [
+          {
+            "value": "Section: Study Outcomes & Endpoints",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_outcomes_015"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Primary Outcome Measures:",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_outcomes_015"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Hemoglobin A1c (We test whether Hemoglobin A1c changes from pre-intervention to 3 months. The key outcome measure will compare the two diet groups, but we will also assess whether statistically significant changes occur within groups from pre-intervention to 3 months.)",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_outcomes_015"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Secondary Outcome Measures:",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_outcomes_015"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Hemoglobin A1c (We test whether Hemoglobin A1c changes from pre-intervention to 6 months. The key outcome measure will compare the two diet groups, but we will also assess whether statistically significant changes occur within groups from pre-intervention to 6 months.)",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT01713764_outcomes_015"
+            ],
+            "notes": null
+          }
+        ]
+      },
+      "risks": [],
+      "benefits": [],
+      "additional_facts": [
+        {
+          "value": "Section: Study Contacts & Locations\nStudy Facility Locations: 1 site(s) registered.\n- Osher Center for Integrative Medicine, San Francisco, California, United States",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT01713764_contacts_locations_018"
+          ],
+          "notes": null
+        }
+      ]
+    },
+    "analysis_status": "success",
+    "message": "Comprehensive protocol analysis complete."
+  },
+  "icf_result": {
+    "study_id": "NCT01713764",
+    "template": {
+      "study_id": "NCT01713764",
+      "template_id": "builtin-v1",
+      "filename": "Default ICF layout",
+      "kind": "default",
+      "sha256": "builtin-v1",
+      "mapped_sections": [
+        "study_title",
+        "invitation",
+        "purpose",
+        "why_asked",
+        "procedures",
+        "duration",
+        "interventions",
+        "risks",
+        "benefits",
+        "alternatives",
+        "voluntary",
+        "confidentiality",
+        "questions_contact"
+      ],
+      "missing_sections": [],
+      "warnings": []
+    },
+    "document_preview": {
+      "standard": "Standard ICF | Study NCT01713764 | Revision 1\nAI-generated draft requiring appropriate human review. Internal approval is not regulatory or IRB approval. Unmapped template wording is unverified and must be checked against the study protocol.\nINFORMED CONSENT FORM\nParticipant Information and Consent for a Clinical Study\nStudy Title\nA Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics\nProtocol / Study Number\nNCT01713764\nClinical Trial Registration No. (CTRI / ClinicalTrials.gov)\nNCT01713764\nStudy Phase\nNOT PROVIDED IN STUDY PROTOCOL\nInvestigational Product / Intervention\nParticipants will be assigned to or receive the following study treatments or regimens:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\nSponsor\nNOT PROVIDED IN STUDY PROTOCOL\nPrincipal Investigator\nStudy Site / Institution\nNOT PROVIDED IN STUDY PROTOCOL\nEthics Committee (name and approval no.)\nNOT PROVIDED IN STUDY PROTOCOL\nICF Version and Date\nRevision 1 dated 2026-10-05\nKEY INFORMATION SUMMARY\nStudy Title: A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics\n\nStudy Purpose: The primary purpose of this clinical research study ('A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics') is to evaluate the safety, efficacy, and clinical outcomes of the study treatments in the target participant population.\n\nMain Interventions: Participants will be assigned to or receive the following study treatments or regimens:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\n\nDuration:\n1. Invitation and Introduction\nYou are being invited to participate in a clinical research study focused on Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE2\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants. Before deciding whether to take part, please read this consent document carefully.\nPlease take your time to read this form. You may discuss it with your family, friends or your own doctor before deciding.\n2. Purpose of the Study\nThe primary purpose of this clinical research study ('A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics') is to evaluate the safety, efficacy, and clinical outcomes of the study treatments in the target participant population.\n3. Why You Are Being Asked to Participate\nYou are being asked to participate in this study because you meet the eligibility criteria for the study population.\n4. Study Treatment / Investigational Product\nParticipants will be assigned to or receive the following study treatments or regimens:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\n5. Study Procedures and Visit Schedule\nDuring this study, participants will undergo regular health assessments and receive the following study treatment regimens:\n- satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\n6. Voluntary Participation and Withdrawal\nParticipation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.\n7. Confidentiality and Data Protection\nYour study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.\n8. Participant Consent Statement\nPlease tick each box to confirm.\n\u2610  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated 2026-10-05, in a language I understand.\n\u2610  I have had the opportunity to ask questions, and my questions have been answered to my satisfaction.\n\u2610  I understand that my participation is voluntary and that I may withdraw at any time without giving a reason and without affecting my medical care or legal rights.\n\u2610  I understand that authorised representatives of the sponsor, the Ethics Committee and regulatory authorities may access my medical and study records, and I give permission for this.\n\u2610  I understand that I will receive a signed and dated copy of this form.\n\u2610  I agree to take part in this study.\n9. Signatures\nParticipant\n[PARTICIPANT_NAME]\n[PARTICIPANT_SIGNATURE_OR_THUMB_IMPRESSION]\n[PARTICIPANT_SIGN_DATE]\nLegally Acceptable Representative (LAR)\n[LAR_NAME]  Relationship: [LAR_RELATIONSHIP]\n[LAR_SIGNATURE]\n[LAR_SIGN_DATE]\nImpartial Witness\n[WITNESS_NAME]\n[WITNESS_SIGNATURE]\n[WITNESS_SIGN_DATE]\nPerson Obtaining Consent\n[PERSON_OBTAINING_CONSENT_NAME]  Role: [CONSENT_TAKER_ROLE]\n[PERSON_OBTAINING_CONSENT_SIGNATURE]\n[CONSENT_DATE]\nPrincipal Investigator\n[INVESTIGATOR_SIGNATURE]\n[INVESTIGATOR_SIGN_DATE]",
+      "patient_friendly": "Patient-Friendly ICF | Study NCT01713764 | Revision 1\nAI-generated draft requiring appropriate human review. Internal approval is not regulatory or IRB approval. Unmapped template wording is unverified and must be checked against the study protocol.\nINFORMED CONSENT FORM\nParticipant Information and Consent for a Clinical Study\nStudy Title\nA Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics\nProtocol / Study Number\nNCT01713764\nClinical Trial Registration No. (CTRI / ClinicalTrials.gov)\nNCT01713764\nStudy Phase\nNOT PROVIDED IN STUDY PROTOCOL\nInvestigational Product / Intervention\nYou will receive or be assigned to one of these study treatment options:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\nSponsor\nNOT PROVIDED IN STUDY PROTOCOL\nPrincipal Investigator\nStudy Site / Institution\nNOT PROVIDED IN STUDY PROTOCOL\nEthics Committee (name and approval no.)\nNOT PROVIDED IN STUDY PROTOCOL\nICF Version and Date\nRevision 1 dated 2026-10-05\nKEY INFORMATION SUMMARY\nStudy Title: A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics\n\nStudy Purpose: The primary purpose of this clinical research study ('A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics') is to study the safety, effectiveness, and clinical outcomes of the study treatments in the target participant population.\n\nMain Interventions: You will receive or be assigned to one of these study treatment options:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\n\nDuration:\n1. Invitation and Introduction\nWe invite you to take part in a medical research study about Section: Study Design & Population Parameters\nStudy Type: treatment testing\nPhase: PHASE2\nAllocation: assigned by chance (for example, like flipping a coin)\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants. Before deciding whether to take part, please read this consent document carefully.\nPlease take your time to read this form. You may discuss it with your family, friends or your own doctor before deciding.\n2. Purpose of the Study\nThe primary purpose of this clinical research study ('A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics') is to study the safety, effectiveness, and clinical outcomes of the study treatments in the target participant population.\n3. Why You Are Being Asked to Participate\nYou are being asked to participate in this study because you meet the eligibility criteria for the study population.\n4. Study Treatment / Investigational Product\nYou will receive or be assigned to one of these study treatment options:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\n5. Study Procedures and Visit Schedule\nDuring this study, participants will have regular health assessments and receive the following study treatment regimens:\n- satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)\n6. Voluntary Participation and Withdrawal\nParticipation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.\n7. Confidentiality and Data Protection\nYour study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.\n8. Participant Consent Statement\nPlease tick each box to confirm.\n\u2610  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated 2026-10-05, in a language I understand.\n\u2610  I have had the opportunity to ask questions, and my questions have been answered to my satisfaction.\n\u2610  I understand that my participation is voluntary and that I may withdraw at any time without giving a reason and without affecting my medical care or legal rights.\n\u2610  I understand that authorised representatives of the sponsor, the Ethics Committee and regulatory authorities may access my medical and study records, and I give permission for this.\n\u2610  I understand that I will receive a signed and dated copy of this form.\n\u2610  I agree to take part in this study.\n9. Signatures\nParticipant\n[PARTICIPANT_NAME]\n[PARTICIPANT_SIGNATURE_OR_THUMB_IMPRESSION]\n[PARTICIPANT_SIGN_DATE]\nLegally Acceptable Representative (LAR)\n[LAR_NAME]  Relationship: [LAR_RELATIONSHIP]\n[LAR_SIGNATURE]\n[LAR_SIGN_DATE]\nImpartial Witness\n[WITNESS_NAME]\n[WITNESS_SIGNATURE]\n[WITNESS_SIGN_DATE]\nPerson Obtaining Consent\n[PERSON_OBTAINING_CONSENT_NAME]  Role: [CONSENT_TAKER_ROLE]\n[PERSON_OBTAINING_CONSENT_SIGNATURE]\n[CONSENT_DATE]\nPrincipal Investigator\n[INVESTIGATOR_SIGNATURE]\n[INVESTIGATOR_SIGN_DATE]"
+    },
+    "validation_report": {
+      "study_id": "NCT01713764",
+      "revision": 1,
+      "overall_status": "REQUIRES_REVIEW",
+      "overall_score": 94.7,
+      "groundedness_score": 100.0,
+      "completeness_score": 100.0,
+      "readability_score": 80.0,
+      "traceability_score": 77.8,
+      "checks": [
+        {
+          "check_id": "groundedness",
+          "check_name": "Groundedness & Hallucination Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "No ungrounded claims or invented contacts detected.",
+          "flagged_items": []
+        },
+        {
+          "check_id": "omission",
+          "check_name": "Fact Completeness & Coverage Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "Reflected 3 out of 3 core protocol fact domain(s) (100% coverage).",
+          "flagged_items": []
+        },
+        {
+          "check_id": "not_found_integrity",
+          "check_name": "NOT_FOUND Placeholders Integrity Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "100% NOT_FOUND section placeholder integrity verified.",
+          "flagged_items": []
+        },
+        {
+          "check_id": "readability",
+          "check_name": "Health Literacy & Readability Check",
+          "status": "WARNING",
+          "score": 80.0,
+          "details": "Estimated reading level: Grade 33.0 (Avg sentence length: 35.0 words).",
+          "flagged_items": [
+            "Estimated reading grade level (33.0) exceeds recommended 8th grade target."
+          ]
+        },
+        {
+          "check_id": "traceability",
+          "check_name": "Source Evidence Traceability Check",
+          "status": "WARNING",
+          "score": 77.8,
+          "details": "7 of 9 SUPPORTED section(s) maintain valid source chunk ID traceability.",
+          "flagged_items": [
+            "Section 'Voluntary Participation' is marked SUPPORTED but has empty source_evidence_ids.",
+            "Section 'Confidentiality' is marked SUPPORTED but has empty source_evidence_ids."
+          ]
+        },
+        {
+          "check_id": "section_consistency",
+          "check_name": "Structured & Patient-Friendly Section Parity Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "100% section parity verified (9 evidence-supported section(s)).",
+          "flagged_items": []
+        }
+      ],
+      "recommendations": [
+        "Review flagged warnings to optimize ICF clarity and factual coverage."
+      ]
+    },
+    "icf_draft": {
+      "sections": [
+        {
+          "section_id": "study_title",
+          "title": "Study Title",
+          "content": "A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics",
+          "source_evidence_ids": [
+            "NCT01713764_study_identification_001"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "invitation",
+          "title": "Invitation to Participate",
+          "content": "You are being invited to participate in a clinical research study focused on Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE2\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants. Before deciding whether to take part, please read this consent document carefully.",
+          "source_evidence_ids": [
+            "NCT01713764_design_012"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "purpose",
+          "title": "Purpose of the Study",
+          "content": "The primary purpose of this clinical research study ('A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics') is to evaluate the safety, efficacy, and clinical outcomes of the study treatments in the target participant population.",
+          "source_evidence_ids": [
+            "NCT01713764_study_identification_001"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "why_asked",
+          "title": "Why You Are Being Asked",
+          "content": "You are being asked to participate because you meet the following study eligibility criteria:\n\nInclusion Criteria:\n- Diabetes mellitus, Type 2\n- HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis\n- Aged 18 years old and older\n- BMI 25 and above\n\nExclusion Criteria:\n- Condition that will make it difficult for participation. Such as:\n- Unstable coronary artery disease\n- Severe emphysema\n- Bulimia or strong history of bulimia\n- Laboratory evidence of organ dysfunction\n- Abnormal kidney function (serum creatinine)\n- Thyroid stimulating hormone out of normal range\n- Previous use or new changes in medications that can interfere with the measures used in the study:\n- Current use of insulin and no immediate plans to start or increase diabetic mediations\n- More than 3 oral hypoglycemic medications\n- Use of systemic (oral or IV) corticosteroids in the 6 months prior\n- Severe autoimmune disorders\n- Initiation of psychiatric medications in past 2 months\n- Weight loss confounds\n- Current use of weight loss medications or supplements\n- History of or planned weight loss surgery\n- Pregnant or planning to get pregnant in the next year, breastfeeding, less than 6 months post-partum\n- Unable or unwilling to do home glucose monitoring\n- Age Range: 18 Years to N/A\n- Healthy Volunteers: False\n- Diabetes mellitus, Type 2\n- HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis\n- Aged 18 years old and older\n- BMI 25 and above",
+          "source_evidence_ids": [
+            "NCT01713764_eligibility_006",
+            "NCT01713764_eligibility_007",
+            "NCT01713764_eligibility_016"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "procedures",
+          "title": "Study Procedures",
+          "content": "During this study, participants will undergo regular health assessments and receive the following study treatment regimens:\n- satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014",
+            "NCT01713764_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "interventions",
+          "title": "Study Interventions / Treatments",
+          "content": "Participants will be assigned to or receive the following study treatments or regimens:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014",
+            "NCT01713764_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "voluntary",
+          "title": "Voluntary Participation",
+          "content": "Participation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "confidentiality",
+          "title": "Confidentiality",
+          "content": "Your study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "questions_contact",
+          "title": "Questions / Contact Information",
+          "content": "Section: Study Contacts & Locations\nStudy Facility Locations: 1 site(s) registered.\n- Osher Center for Integrative Medicine, San Francisco, California, United States",
+          "source_evidence_ids": [
+            "NCT01713764_contacts_locations_018"
+          ],
+          "status": "SUPPORTED"
+        }
+      ],
+      "revision": 1
+    },
+    "patient_friendly_icf": {
+      "sections": [
+        {
+          "section_id": "study_title",
+          "title": "Study Title",
+          "content": "A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics",
+          "source_evidence_ids": [
+            "NCT01713764_study_identification_001"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "invitation",
+          "title": "Invitation to Participate",
+          "content": "We invite you to take part in a medical research study about Section: Study Design & Population Parameters\nStudy Type: treatment testing\nPhase: PHASE2\nAllocation: assigned by chance (for example, like flipping a coin)\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: NONE\nEnrollment Target: 34 participants. Before deciding whether to take part, please read this consent document carefully.",
+          "source_evidence_ids": [
+            "NCT01713764_design_012"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "purpose",
+          "title": "Purpose of the Study",
+          "content": "The primary purpose of this clinical research study ('A Pilot Study of the Effects of Diet and Behavioral Interventions on Health in Diabetics') is to study the safety, effectiveness, and clinical outcomes of the study treatments in the target participant population.",
+          "source_evidence_ids": [
+            "NCT01713764_study_identification_001"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "why_asked",
+          "title": "Why You Are Being Asked",
+          "content": "You are invited to join because you meet these study participation rules:\n\nYou may be able to join if you meet these rules:\n- Diabetes mellitus, Type 2\n- HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis\n- Aged 18 years old and older\n- BMI 25 and above\n\nYou cannot join if any of these apply to you:\n- Condition that will make it difficult for participation. Such as:\n- Unstable coronary artery disease\n- Severe emphysema\n- Bulimia or strong history of bulimia\n- Laboratory evidence of organ dysfunction\n- Abnormal kidney function (serum creatinine)\n- Thyroid stimulating hormone out of normal range\n- Previous use or new changes in medications that can interfere with the measures used in the study:\n- Current use of insulin and no immediate plans to start or increase diabetic mediations\n- More than 3 oral hypoglycemic medications\n- Use of systemic (oral or IV) corticosteroids in the 6 months prior\n- Severe autoimmune disorders\n- Initiation of psychiatric medications in past 2 months\n- Weight loss confounds\n- Current use of weight loss medications or supplements\n- History of or planned weight loss surgery\n- Pregnant or planning to get pregnant in the next year, breastfeeding, less than 6 months post-partum\n- Unable or unwilling to do home glucose monitoring\n- Age Range: 18 Years to N/A\n- Healthy Volunteers: False\n- Diabetes mellitus, Type 2\n- HgbA1c \\> 6.0% at screening. This is to confirm the diabetes diagnosis\n- Aged 18 years old and older\n- BMI 25 and above",
+          "source_evidence_ids": [
+            "NCT01713764_eligibility_006",
+            "NCT01713764_eligibility_007",
+            "NCT01713764_eligibility_016"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "procedures",
+          "title": "Study Procedures",
+          "content": "During this study, participants will have regular health assessments and receive the following study treatment regimens:\n- satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014",
+            "NCT01713764_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "interventions",
+          "title": "Study Interventions / Treatments",
+          "content": "You will receive or be assigned to one of these study treatment options:\n- Satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Arm: : Participants in the American Diabetes Association (ADA) diet group will receive standard ADA advice. The diet includes high-fiber foods (such as vegetables, fruits, whole grains, and legumes), low-fat dairy products, fresh fish, and foods low in saturated fat\n- Participants will also be taught information about mindfulness and positive affect practices. The mindfulness-based curriculum will focus on the following elements: training on topics such as mindful meditation, mindful eating, awareness of fullness and hunger signals, and taste satiety. The positive emotion curriculum will include: training on topics such as noticing and savoring positive events, gratitude, positive reappraisal, personal strengths, attainable goals, and acts of kindness\n- Low Carbohydrate Diet (BEHAVIORAL)\n- American Diabetes Association Diet (BEHAVIORAL)\n- Mindfulness and Positive Affect Skills (BEHAVIORAL)",
+          "source_evidence_ids": [
+            "NCT01713764_interventions_014",
+            "NCT01713764_interventions_003"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "voluntary",
+          "title": "Voluntary Participation",
+          "content": "Participation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "confidentiality",
+          "title": "Confidentiality",
+          "content": "Your study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "questions_contact",
+          "title": "Questions / Contact Information",
+          "content": "Section: Study Contacts & Locations\nStudy Facility Locations: 1 site(s) registered.\n- Osher Center for Integrative Medicine, San Francisco, California, United States",
+          "source_evidence_ids": [
+            "NCT01713764_contacts_locations_018"
+          ],
+          "status": "SUPPORTED"
+        }
+      ],
+      "revision": 1
+    },
+    "revision": 1,
+    "generation_status": "success",
+    "message": "ICF content generation complete."
+  },
+  "indexed_studies": [
+    "NCT00081328",
+    "NCT00162175",
+    "NCT01713764"
+  ]
+}

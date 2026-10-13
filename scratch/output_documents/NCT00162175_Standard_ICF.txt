@@ -1,0 +1,130 @@
+NCT00162175  |  Informed Consent Form  |  Version Revision 1, 2026-10-05
+Participant initials: ________ Page 1 of 5
+Standard ICF | Study NCT00162175 | Revision 1
+AI-generated draft requiring appropriate human review. Internal approval is not regulatory or 
+IRB approval. Unmapped template wording is unverified and must be checked against the 
+study protocol.
+INFORMED CONSENT FORM
+Participant Information and Consent for a Clinical Study
+Study Title Clinical Trial Protocol NCT00162175
+Protocol / Study Number NCT00162175
+Clinical Trial Registration No. 
+(CTRI / ClinicalTrials.gov)
+NCT00162175
+Study Phase NOT PROVIDED IN STUDY PROTOCOL
+Investigational Product / 
+Intervention
+Participants will be assigned to or receive the following study 
+treatments or regimens:
+- Muraglitazar (DRUG)
+Sponsor NOT PROVIDED IN STUDY PROTOCOL
+Principal Investigator
+Study Site / Institution Section: Study Contacts & Locations
+Study Facility Locations: 149 site(s) registered.
+- Local Institution, Anniston, Alabama, United States
+- Local Institution, Hoover, Alabama, United States
+- Local Institution, Huntsville, Alabama, United States
+- Local Institution, Mobile, Alabama, United States
+- Local Institution, Mesa, Arizona, United States
+- Local Institution, Phoenix, Arizona, United States
+- Local Institution, Tucson, Arizona, United States
+- Local Institution, Little Rock, Arkansas, United States
+- Local Institution, Encinitas, California, United States
+- Local Institution, Long Beach, California, United States
+Ethics Committee (name and 
+approval no.)
+NOT PROVIDED IN STUDY PROTOCOL
+ICF Version and Date Revision 1 dated 2026-10-05
+KEY INFORMATION SUMMARY
+Study Title: Clinical Trial Protocol NCT00162175
+Study Purpose: 
+Main Interventions: Participants will be assigned to or receive the following study 
+treatments or regimens:
+- Muraglitazar (DRUG)
+Duration:
+1. Invitation and Introduction
+You are being invited to participate in a clinical research study focused on Section: Study 
+Design & Population Parameters
+NCT00162175  |  Informed Consent Form  |  Version Revision 1, 2026-10-05
+Participant initials: ________ Page 2 of 5
+Study Type: INTERVENTIONAL
+Phase: PHASE3
+Allocation: RANDOMIZED
+Intervention Model: PARALLEL
+Primary Purpose: TREATMENT
+Masking: DOUBLE
+Enrollment Target: 534 participants. Before deciding whether to take part, please read this 
+consent document carefully.
+Please take your time to read this form. You may discuss it with your family, friends or your 
+own doctor before deciding.
+2. Why You Are Being Asked to Participate
+You are being asked to participate in this study because you meet the eligibility criteria for 
+the study population.
+Who can take part
+- Type 2 Diabetes, HbA1c \> 7.0% and \< 10.0%, mean serum triglyceride \< 600 mg/dL, 
+body mass index \< 41 kg/m2, fasting c-peptide . 1.5 ng/mL.
+Who cannot take part
+- History of MI (myocardial infarction), coronary angioplasty or bypass graft(s), valvular 
+disease or repair, unstable angina pectoris, transient ischemic attack (TIA), cerebrovascular 
+attack, or cerebrovascular accident (CVA) within 6 months, congestive heart failure (NYHA 
+Class III and IV, uncontrolled hypertension, history or renal disease, peripheral vascular 
+disease (PVD), pulmonary disease, gastrointestinal disease, active liver disease or 
+endocrine disease.
+- Age Range: 18 Years to 70 Years
+- Healthy Volunteers: False
+- Type 2 Diabetes, HbA1c \> 7.0% and \< 10.0%, mean serum triglyceride \< 600 mg/dL, 
+body mass index \< 41 kg/m2, fasting c-peptide . 1.5 ng/mL.
+3. Study Treatment / Investigational Product
+Participants will be assigned to or receive the following study treatments or regimens:
+- Muraglitazar (DRUG)
+4. Study Procedures and Visit Schedule
+During this study, participants will undergo regular health assessments and receive the 
+following study treatment regimens:
+- Muraglitazar (DRUG)
+5. Voluntary Participation and Withdrawal
+Participation in this research study is completely voluntary. You may choose to withdraw 
+from participation at any time without penalty or loss of medical benefits to which you are 
+otherwise entitled.
+NCT00162175  |  Informed Consent Form  |  Version Revision 1, 2026-10-05
+Participant initials: ________ Page 3 of 5
+6. Confidentiality and Data Protection
+Your study records and personal identity will be kept strictly confidential in accordance with 
+applicable medical privacy and data protection standards.
+NCT00162175  |  Informed Consent Form  |  Version Revision 1, 2026-10-05
+Participant initials: ________ Page 4 of 5
+7. Participant Consent Statement
+Please tick each box to confirm.
+  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated☐  
+2026-10-05, in a language I understand.
+  I have had the opportunity to ask questions, and my questions have been answered to☐  
+my satisfaction.
+  I understand that my participation is voluntary and that I may withdraw at any time☐  
+without giving a reason and without affecting my medical care or legal rights.
+  I understand that authorised representatives of the sponsor, the Ethics Committee and☐  
+regulatory authorities may access my medical and study records, and I give permission 
+for this.
+  I understand that I will receive a signed and dated copy of this form.☐
+  I agree to take part in this study.☐
+NCT00162175  |  Informed Consent Form  |  Version Revision 1, 2026-10-05
+Participant initials: ________ Page 5 of 5
+8. Signatures
+Participant
+[PARTICIPANT_NAME] [PARTICIPANT_SIGNATURE_OR_T
+HUMB_IMPRESSION]
+[PARTICIPANT_SIGN_DATE]
+Legally Acceptable Representative (LAR)
+[LAR_NAME]  Relationship: 
+[LAR_RELATIONSHIP]
+[LAR_SIGNATURE] [LAR_SIGN_DATE]
+Impartial Witness
+[WITNESS_NAME] [WITNESS_SIGNATURE] [WITNESS_SIGN_DATE]
+Person Obtaining Consent
+[PERSON_OBTAINING_CONSE
+NT_NAME]  Role: 
+[CONSENT_TAKER_ROLE]
+[PERSON_OBTAINING_CONSENT_
+SIGNATURE]
+[CONSENT_DATE]
+Principal Investigator
+[INVESTIGATOR_SIGNATURE] [INVESTIGATOR_SIGN_DAT
+E]

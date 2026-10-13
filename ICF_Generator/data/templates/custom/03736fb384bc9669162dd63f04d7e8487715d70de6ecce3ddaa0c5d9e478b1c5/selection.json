@@ -1,0 +1,28 @@
+{
+  "study_id": "NCT01262586",
+  "template_id": "7ebaaf2d8bf14a6fa6b1ed10e902a5d6",
+  "filename": "ICF_Professional_User_Upload_Template.docx",
+  "kind": "custom",
+  "sha256": "7e45bf04c9896606ce02f8d243ab947b67fcd11c993bfee7f50b49ab35046a96",
+  "mapped_sections": [
+    "invitation",
+    "purpose",
+    "why_asked",
+    "procedures",
+    "interventions",
+    "alternatives",
+    "voluntary",
+    "confidentiality",
+    "questions_contact"
+  ],
+  "missing_sections": [
+    "study_title",
+    "duration",
+    "risks",
+    "benefits"
+  ],
+  "warnings": [
+    "Unmapped template text is retained as unverified template wording. Review it for sample clinical claims before approval.",
+    "Missing template sections will not be added to the custom layout: study_title, duration, risks, benefits."
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "study_id": "NCT00081328",
+    "title": "Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY)",
+    "input_query": "What are the study purpose, treatment interventions, risks, and participant responsibilities?",
+    "expected_answers": [
+      "The study evaluates treatment options for type 2 diabetes in youth, comparing metformin alone, metformin plus rosiglitazone, and metformin plus intensive lifestyle intervention.",
+      "Participants must take prescribed capsules and attend scheduled study visits for monitoring."
+    ],
+    "expected_evidence": [
+      "Metformin alone, metformin plus rosiglitazone, and metformin plus intensive lifestyle intervention",
+      "Adolescents and youth diagnosed with type 2 diabetes"
+    ],
+    "required_sections": [
+      "Study Purpose",
+      "Interventions",
+      "Risks and Discomforts",
+      "Benefits",
+      "Voluntary Participation",
+      "Privacy and Confidentiality"
+    ],
+    "missing_facts_test": false
+  },
+  {
+    "study_id": "NCT00162175",
+    "title": "PPAR-COMBO With Sulfonylurea",
+    "input_query": "What are the main risks, eligibility criteria, and clinical procedures in this trial?",
+    "expected_answers": [
+      "The trial evaluates PPAR-combo therapy combined with sulfonylurea in type 2 diabetes patients.",
+      "Risks include hypoglycemia, weight changes, and cardiovascular monitoring requirements."
+    ],
+    "expected_evidence": [
+      "PPAR-combo therapy with sulfonylurea",
+      "Type 2 diabetes mellitus"
+    ],
+    "required_sections": [
+      "Study Purpose",
+      "Interventions",
+      "Risks and Discomforts",
+      "Benefits",
+      "Voluntary Participation",
+      "Privacy and Confidentiality"
+    ],
+    "missing_facts_test": false
+  },
+  {
+    "study_id": "NCT00481663",
+    "title": "Study of Different Doses of Sitagliptin in Type 2 Diabetes",
+    "input_query": "What is the dosage of Sitagliptin and what clinical monitoring is required?",
+    "expected_answers": [
+      "Sitagliptin doses are evaluated for glycemic control in type 2 diabetes.",
+      "Regular blood testing and renal function monitoring are performed."
+    ],
+    "expected_evidence": [
+      "Sitagliptin dosage evaluation",
+      "Glycemic control in type 2 diabetes"
+    ],
+    "required_sections": [
+      "Study Purpose",
+      "Interventions",
+      "Risks and Discomforts",
+      "Benefits",
+      "Voluntary Participation",
+      "Privacy and Confidentiality"
+    ],
+    "missing_facts_test": false
+  },
+  {
+    "study_id": "NCT_MISSING_INFO_TEST",
+    "title": "Synthetic Protocol Missing Sponsor and Compensation Details",
+    "input_query": "What is the financial compensation and specific emergency contact for this trial?",
+    "expected_answers": [
+      "No financial compensation or emergency contact details are specified in the provided protocol."
+    ],
+    "expected_evidence": [],
+    "required_sections": [
+      "Study Purpose",
+      "Voluntary Participation",
+      "Privacy and Confidentiality"
+    ],
+    "missing_facts_test": true
+  }
+]

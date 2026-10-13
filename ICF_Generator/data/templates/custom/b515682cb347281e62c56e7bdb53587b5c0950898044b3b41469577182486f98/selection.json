@@ -1,0 +1,28 @@
+{
+  "study_id": "TEST_STUDY_A",
+  "template_id": "faef3445e4984b028fea6bade162d329",
+  "filename": "ICF_Test_Template_A_Concise.docx",
+  "kind": "custom",
+  "sha256": "ffe036a2d156ea6775d21a57c74a39936528410e7576d00a04479da792c28b33",
+  "mapped_sections": [
+    "purpose"
+  ],
+  "missing_sections": [
+    "study_title",
+    "invitation",
+    "why_asked",
+    "procedures",
+    "duration",
+    "interventions",
+    "risks",
+    "benefits",
+    "alternatives",
+    "voluntary",
+    "confidentiality",
+    "questions_contact"
+  ],
+  "warnings": [
+    "Unmapped template text is retained as unverified template wording. Review it for sample clinical claims before approval.",
+    "Missing template sections will not be added to the custom layout: study_title, invitation, why_asked, procedures, duration, interventions, risks, benefits, alternatives, voluntary, confidentiality, questions_contact."
+  ]
+}

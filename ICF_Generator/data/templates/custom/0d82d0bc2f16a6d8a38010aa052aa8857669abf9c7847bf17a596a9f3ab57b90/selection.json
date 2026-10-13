@@ -1,0 +1,28 @@
+{
+  "study_id": "NCT01713764",
+  "template_id": "99e6e35b2fa946f79c337ebe14d9213e",
+  "filename": "ICF_Test_Template_B_Detailed.docx",
+  "kind": "custom",
+  "sha256": "2f242c07c0a9a73a484b282e9711ba838c655a7042ae7ce65225f83a140b02bd",
+  "mapped_sections": [
+    "purpose"
+  ],
+  "missing_sections": [
+    "study_title",
+    "invitation",
+    "why_asked",
+    "procedures",
+    "duration",
+    "interventions",
+    "risks",
+    "benefits",
+    "alternatives",
+    "voluntary",
+    "confidentiality",
+    "questions_contact"
+  ],
+  "warnings": [
+    "Unmapped template text is retained as unverified template wording. Review it for sample clinical claims before approval.",
+    "Missing sections will be appended from the generated draft: study_title, invitation, why_asked, procedures, duration, interventions, risks, benefits, alternatives, voluntary, confidentiality, questions_contact."
+  ]
+}

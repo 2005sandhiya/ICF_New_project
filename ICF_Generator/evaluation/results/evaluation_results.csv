@@ -1,0 +1,5 @@
+Test Case ID,Study ID,Study Title,Missing Info Case,Completeness (%),Traceability (%),Readability Grade,Missing Info Safety (%),Validation Score (%),Validation Status,DeepEval Status,Faithfulness,Answer Relevancy,Contextual Precision,Contextual Recall
+TC_001,NCT00081328,Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY),NO,50.0,100.0,37.2,100.0,88.0,PASSED_WITH_WARNINGS,BLOCKED,N/A,N/A,N/A,N/A
+TC_002,NCT00162175,PPAR-COMBO With Sulfonylurea,NO,33.3,0.0,16.7,100.0,88.0,PASSED_WITH_WARNINGS,BLOCKED,N/A,N/A,N/A,N/A
+TC_003,NCT00481663,Study of Different Doses of Sitagliptin in Type 2 Diabetes,NO,33.3,0.0,16.7,100.0,88.0,PASSED_WITH_WARNINGS,BLOCKED,N/A,N/A,N/A,N/A
+TC_004,NCT_MISSING_INFO_TEST,Synthetic Protocol Missing Sponsor and Compensation Details,YES,33.3,0.0,37.2,100.0,88.0,PASSED_WITH_WARNINGS,BLOCKED,N/A,N/A,N/A,N/A

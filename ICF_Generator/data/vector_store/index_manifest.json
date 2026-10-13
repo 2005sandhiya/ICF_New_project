@@ -1,0 +1,11 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "index_type": "IndexFlatIP",
+  "total_vectors": 48,
+  "created_at": "2026-10-12T17:19:32.006976",
+  "updated_at": "2026-10-12T17:19:32.006976",
+  "source_studies": [
+    "NCT00081328"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/ICF_Generator/backend",
+        "${workspaceFolder}/backend",
+        "./ICF_Generator/backend",
+        "./backend"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/ICF_Generator/backend",
+        "${workspaceFolder}/backend",
+        "./ICF_Generator/backend",
+        "./backend"
+    ],
+    "python.defaultInterpreterPath": "C:\\Users\\dsand\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+}

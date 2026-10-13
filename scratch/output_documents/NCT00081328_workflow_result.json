@@ -1,0 +1,658 @@
+{
+  "study_id": "NCT00081328",
+  "canonical_protocol": null,
+  "analysis_result": {
+    "study_id": "NCT00081328",
+    "facts": {
+      "study_id": "NCT00081328",
+      "study_title": {
+        "value": "Studies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT00081328_study_identification_001"
+        ],
+        "notes": null
+      },
+      "study_type": {
+        "value": "INTERVENTIONAL",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT00081328_study_identification_001"
+        ],
+        "notes": null
+      },
+      "phase": {
+        "value": "PHASE3",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT00081328_study_identification_001"
+        ],
+        "notes": null
+      },
+      "condition": [
+        {
+          "value": "Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: QUADRUPLE\nEnrollment Target: 699 participants",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00081328_design_034"
+          ],
+          "notes": null
+        }
+      ],
+      "population": {
+        "value": "Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: QUADRUPLE\nEnrollment Target: 699 participants",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT00081328_design_034"
+        ],
+        "notes": null
+      },
+      "interventions": [
+        {
+          "value": "Metformin (DRUG): capsule, 1000 mg bid",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Rosiglitazone (DRUG): capsule, 4 mg bid",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003"
+          ],
+          "notes": null
+        },
+        {
+          "value": "Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003"
+          ],
+          "notes": null
+        },
+        {
+          "value": "The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D.",
+          "status": "SUPPORTED",
+          "source_evidence_ids": [
+            "NCT00081328_objectives_005"
+          ],
+          "notes": null
+        }
+      ],
+      "comparators": [],
+      "objectives": {
+        "primary": [
+          {
+            "value": "evaluate the influence of individual and family behaviors on treatment response; and",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_objectives_005"
+            ],
+            "notes": null
+          },
+          {
+            "value": "compare the relative cost effectiveness of the three treatment arms.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_objectives_005"
+            ],
+            "notes": null
+          }
+        ],
+        "secondary": []
+      },
+      "eligibility": {
+        "inclusion": [
+          {
+            "value": "Duration since diagnosis less than two years by date of randomization.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "BMI \u2265 85th percentile documented at time of diagnosis or at screening.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Fasting C-peptide at screening (drawn at least one week after treatment for ketosis or acidosis, if applicable) \\> 0.6 ng/mL.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Absence of pancreatic autoimmunity (both GAD and ICA512 negative).",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Age 10-17, with randomization prior to 18th birthday.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Signed informed consent/assent forms for the pre-randomization period.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "A family member or adult closely involved in the daily activities of the child agrees to participate in the child's treatment.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_012"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Patient on medication(s) that are known to cause weight gain within the last 30 days.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Patient on any weight-loss medication(s) within the last 30 days.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Patient on medication(s) known to affect the metabolism of study drug.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Inability to comprehend the lowest grade level at which lifestyle intervention materials are prepared, for both child and participating family member, assessed by mastery of standard diabetes education program administered during run-in.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Inability to comply with requirements of study during run-in period.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Females who are pregnant, planning to become pregnant within two years of enrollment, or who admit sexual activity without appropriate contraception.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Calculated creatinine clearance \\< 70 mL/min.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Physical limitations preventing patient from being randomized to the lifestyle intervention.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Patient plans to leave the geographic area within one calendar year.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Admitted use of anabolic steroids within 60 days.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_046"
+            ],
+            "notes": null
+          }
+        ],
+        "exclusion": [
+          {
+            "value": "developmental disorder) that would prevent participation in the opinion of the investigator.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Patient participates in a formal weight-loss program.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Duration since diagnosis less than 2 years at randomization.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "HbA1c \\< 8% on metformin alone.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Age 10-17, with randomization before patient is 18 years old.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Signed consent/assent forms for randomization and the post-randomization phase.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "A family member or adult closely involved in the daily activities of the child agrees to participate in the child's treatment.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Fluency in English or Spanish for both child and family member.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Patient and family able to fully participate in trial protocol in the opinion of the investigator.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Refractory hypertension: average systolic blood pressure \u2265 150 mmHg or average diastolic blood pressure \u2265 95 mmHg despite appropriate medical therapy.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_eligibility_044"
+            ],
+            "notes": null
+          }
+        ]
+      },
+      "duration": {
+        "value": "recruits patients over a three-year period and follows patients for a minimum of two years",
+        "status": "SUPPORTED",
+        "source_evidence_ids": [
+          "NCT00081328_objectives_005"
+        ],
+        "notes": null
+      },
+      "procedures": [],
+      "outcomes": {
+        "primary": [
+          {
+            "value": "(Insulinogenic index determined from OGTT as difference in insulin at 30 minutes minus 0 minutes divided by difference in glucose at 30 minutes minus 0 minutes. The analysis sample includes only participants with 24 month data who had not experienced the primary outcome by that time.)",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_outcomes_037"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Body Composition -- BMI (Body mass index (BMI) measured in kg per meters squared. The analysis sample includes only participants with 24 month data who had not experienced the primary outcome by that time.)",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_outcomes_037"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Body Composition -- Waist Circumference (Waist circumference (cm) measured at the iliac crest at its outermost point with the measuring tape placed around the participant in a horizontal plane parallel to the floor at the mark and the measurement teken at the end of normal expiration without the tape compressing the skin. The analysis sample includes only participants with 24 month data who had not experienced the primary outcome by that time.)",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_outcomes_037"
+            ],
+            "notes": null
+          },
+          {
+            "value": "Body Composition -- Bone Density (Measured by DXA, both whole body scan and AP-spine scan.",
+            "status": "SUPPORTED",
+            "source_evidence_ids": [
+              "NCT00081328_outcomes_037"
+            ],
+            "notes": null
+          }
+        ],
+        "secondary": []
+      },
+      "risks": [],
+      "benefits": [],
+      "additional_facts": []
+    },
+    "analysis_status": "success",
+    "message": "Comprehensive protocol analysis complete."
+  },
+  "icf_result": {
+    "study_id": "NCT00081328",
+    "template": {
+      "study_id": "NCT00081328",
+      "template_id": "builtin-v1",
+      "filename": "Default ICF layout",
+      "kind": "default",
+      "sha256": "builtin-v1",
+      "mapped_sections": [
+        "study_title",
+        "invitation",
+        "purpose",
+        "why_asked",
+        "procedures",
+        "duration",
+        "interventions",
+        "risks",
+        "benefits",
+        "alternatives",
+        "voluntary",
+        "confidentiality",
+        "questions_contact"
+      ],
+      "missing_sections": [],
+      "warnings": []
+    },
+    "document_preview": {
+      "standard": "Standard ICF | Study NCT00081328 | Revision 1\nAI-generated draft requiring appropriate human review. Internal approval is not regulatory or IRB approval. Unmapped template wording is unverified and must be checked against the study protocol.\nINFORMED CONSENT FORM\nParticipant Information and Consent for a Clinical Study\nStudy Title\nStudies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial\nProtocol / Study Number\nNCT00081328\nClinical Trial Registration No. (CTRI / ClinicalTrials.gov)\nNCT00081328\nStudy Phase\nNOT PROVIDED IN STUDY PROTOCOL\nInvestigational Product / Intervention\nParticipants will be assigned to or receive the following study treatments or regimens:\n- Metformin (DRUG): capsule, 1000 mg bid\n- Rosiglitazone (DRUG): capsule, 4 mg bid\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D\nSponsor\nNOT PROVIDED IN STUDY PROTOCOL\nPrincipal Investigator\nStudy Site / Institution\nNOT PROVIDED IN STUDY PROTOCOL\nEthics Committee (name and approval no.)\nNOT PROVIDED IN STUDY PROTOCOL\nICF Version and Date\nRevision 1 dated 2026-10-05\nKEY INFORMATION SUMMARY\nStudy Title: Studies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial\n\nStudy Purpose: The purpose of this clinical research study is to address the following objectives:\n\nPrimary Objectives:\n- Evaluate the influence of individual and family behaviors on treatment response;\n- Compare the relative cost effectiveness of the three treatment arms\n\nMain Interventions: Participants will be assigned to or receive the following study treatments or regimens:\n- Metformin (DRUG): capsule, 1000 mg bid\n- Rosiglitazone (DRUG): capsule, 4 mg bid\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D\n\nDuration: Your total participation in this study is expected to last: recruits patients over a three-year period and follows patients for a minimum of two years\n1. Invitation and Introduction\nYou are being invited to participate in a clinical research study focused on Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: QUADRUPLE\nEnrollment Target: 699 participants. Before deciding whether to take part, please read this consent document carefully.\nPlease take your time to read this form. You may discuss it with your family, friends or your own doctor before deciding.\n2. Purpose of the Study\nThe purpose of this clinical research study is to address the following objectives:\n\nPrimary Objectives:\n- Evaluate the influence of individual and family behaviors on treatment response;\n- Compare the relative cost effectiveness of the three treatment arms\n3. Why You Are Being Asked to Participate\nYou are being asked to participate in this study because you meet the eligibility criteria for the study population.\n4. Study Treatment / Investigational Product\nParticipants will be assigned to or receive the following study treatments or regimens:\n- Metformin (DRUG): capsule, 1000 mg bid\n- Rosiglitazone (DRUG): capsule, 4 mg bid\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D\n5. Study Procedures and Visit Schedule\nDuring this study, participants will undergo regular health assessments and receive the following study treatment regimens:\n- Metformin (DRUG): capsule, 1000 mg bid\n- Rosiglitazone (DRUG): capsule, 4 mg bid\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D\n6. Voluntary Participation and Withdrawal\nParticipation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.\n7. Confidentiality and Data Protection\nYour study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.\n8. Participant Consent Statement\nPlease tick each box to confirm.\n\u2610  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated 2026-10-05, in a language I understand.\n\u2610  I have had the opportunity to ask questions, and my questions have been answered to my satisfaction.\n\u2610  I understand that my participation is voluntary and that I may withdraw at any time without giving a reason and without affecting my medical care or legal rights.\n\u2610  I understand that authorised representatives of the sponsor, the Ethics Committee and regulatory authorities may access my medical and study records, and I give permission for this.\n\u2610  I understand that I will receive a signed and dated copy of this form.\n\u2610  I agree to take part in this study.\n9. Signatures\nParticipant\n[PARTICIPANT_NAME]\n[PARTICIPANT_SIGNATURE_OR_THUMB_IMPRESSION]\n[PARTICIPANT_SIGN_DATE]\nLegally Acceptable Representative (LAR)\n[LAR_NAME]  Relationship: [LAR_RELATIONSHIP]\n[LAR_SIGNATURE]\n[LAR_SIGN_DATE]\nImpartial Witness\n[WITNESS_NAME]\n[WITNESS_SIGNATURE]\n[WITNESS_SIGN_DATE]\nPerson Obtaining Consent\n[PERSON_OBTAINING_CONSENT_NAME]  Role: [CONSENT_TAKER_ROLE]\n[PERSON_OBTAINING_CONSENT_SIGNATURE]\n[CONSENT_DATE]\nPrincipal Investigator\n[INVESTIGATOR_SIGNATURE]\n[INVESTIGATOR_SIGN_DATE]",
+      "patient_friendly": "Patient-Friendly ICF | Study NCT00081328 | Revision 1\nAI-generated draft requiring appropriate human review. Internal approval is not regulatory or IRB approval. Unmapped template wording is unverified and must be checked against the study protocol.\nINFORMED CONSENT FORM\nParticipant Information and Consent for a Clinical Study\nStudy Title\nStudies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial\nProtocol / Study Number\nNCT00081328\nClinical Trial Registration No. (CTRI / ClinicalTrials.gov)\nNCT00081328\nStudy Phase\nNOT PROVIDED IN STUDY PROTOCOL\nInvestigational Product / Intervention\nYou will receive or be assigned to one of these study treatment options:\n- metformin (a standard diabetes medication) (DRUG): capsule, 1000 mg twice a day\n- rosiglitazone (a diabetes medication that helps body insulin sensitivity) (DRUG): capsule, 4 mg twice a day\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin (a standard diabetes medication) alone, (2) metformin (a standard diabetes medication) plus rosiglitazone (a diabetes medication that helps body insulin sensitivity), and (3) metformin (a standard diabetes medication) plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are assigned by chance (for example, like flipping a coin) within two years of the diagnosis of T2D\nSponsor\nNOT PROVIDED IN STUDY PROTOCOL\nPrincipal Investigator\nStudy Site / Institution\nNOT PROVIDED IN STUDY PROTOCOL\nEthics Committee (name and approval no.)\nNOT PROVIDED IN STUDY PROTOCOL\nICF Version and Date\nRevision 1 dated 2026-10-05\nKEY INFORMATION SUMMARY\nStudy Title: Studies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial\n\nStudy Purpose: The main goals of this research study are to answer these questions:\n\nMain Goal of the Study:\n- study the influence of individual and family behaviors on treatment response;\n- Compare the relative cost effectiveness of the three treatment arms\n\nMain Interventions: You will receive or be assigned to one of these study treatment options:\n- metformin (a standard diabetes medication) (DRUG): capsule, 1000 mg twice a day\n- rosiglitazone (a diabetes medication that helps body insulin sensitivity) (DRUG): capsule, 4 mg twice a day\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin (a standard diabetes medication) alone, (2) metformin (a standard diabetes medication) plus rosiglitazone (a diabetes medication that helps body insulin sensitivity), and (3) metformin (a standard diabetes medication) plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are assigned by chance (for example, like flipping a coin) within two years of the diagnosis of T2D\n\nDuration: Your overall time taking part in this study will be: recruits patients over a three-year period and follows patients for a minimum of two years\n1. Invitation and Introduction\nWe invite you to take part in a medical research study about Section: Study Design & Population Parameters\nStudy Type: treatment testing\nPhase: PHASE3\nAllocation: assigned by chance (for example, like flipping a coin)\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: QUADRUPLE\nEnrollment Target: 699 participants. Before deciding whether to take part, please read this consent document carefully.\nPlease take your time to read this form. You may discuss it with your family, friends or your own doctor before deciding.\n2. Purpose of the Study\nThe main goals of this research study are to answer these questions:\n\nMain Goal of the Study:\n- study the influence of individual and family behaviors on treatment response;\n- Compare the relative cost effectiveness of the three treatment arms\n3. Why You Are Being Asked to Participate\nYou are being asked to participate in this study because you meet the eligibility criteria for the study population.\n4. Study Treatment / Investigational Product\nYou will receive or be assigned to one of these study treatment options:\n- metformin (a standard diabetes medication) (DRUG): capsule, 1000 mg twice a day\n- rosiglitazone (a diabetes medication that helps body insulin sensitivity) (DRUG): capsule, 4 mg twice a day\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin (a standard diabetes medication) alone, (2) metformin (a standard diabetes medication) plus rosiglitazone (a diabetes medication that helps body insulin sensitivity), and (3) metformin (a standard diabetes medication) plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are assigned by chance (for example, like flipping a coin) within two years of the diagnosis of T2D\n5. Study Procedures and Visit Schedule\nDuring this study, participants will have regular health assessments and receive the following study treatment regimens:\n- metformin (a standard diabetes medication) (DRUG): capsule, 1000 mg twice a day\n- rosiglitazone (a diabetes medication that helps body insulin sensitivity) (DRUG): capsule, 4 mg twice a day\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin (a standard diabetes medication) alone, (2) metformin (a standard diabetes medication) plus rosiglitazone (a diabetes medication that helps body insulin sensitivity), and (3) metformin (a standard diabetes medication) plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are assigned by chance (for example, like flipping a coin) within two years of the diagnosis of T2D\n6. Voluntary Participation and Withdrawal\nParticipation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.\n7. Confidentiality and Data Protection\nYour study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.\n8. Participant Consent Statement\nPlease tick each box to confirm.\n\u2610  I have read (or had read to me) this Informed Consent Form, version Revision 1 dated 2026-10-05, in a language I understand.\n\u2610  I have had the opportunity to ask questions, and my questions have been answered to my satisfaction.\n\u2610  I understand that my participation is voluntary and that I may withdraw at any time without giving a reason and without affecting my medical care or legal rights.\n\u2610  I understand that authorised representatives of the sponsor, the Ethics Committee and regulatory authorities may access my medical and study records, and I give permission for this.\n\u2610  I understand that I will receive a signed and dated copy of this form.\n\u2610  I agree to take part in this study.\n9. Signatures\nParticipant\n[PARTICIPANT_NAME]\n[PARTICIPANT_SIGNATURE_OR_THUMB_IMPRESSION]\n[PARTICIPANT_SIGN_DATE]\nLegally Acceptable Representative (LAR)\n[LAR_NAME]  Relationship: [LAR_RELATIONSHIP]\n[LAR_SIGNATURE]\n[LAR_SIGN_DATE]\nImpartial Witness\n[WITNESS_NAME]\n[WITNESS_SIGNATURE]\n[WITNESS_SIGN_DATE]\nPerson Obtaining Consent\n[PERSON_OBTAINING_CONSENT_NAME]  Role: [CONSENT_TAKER_ROLE]\n[PERSON_OBTAINING_CONSENT_SIGNATURE]\n[CONSENT_DATE]\nPrincipal Investigator\n[INVESTIGATOR_SIGNATURE]\n[INVESTIGATOR_SIGN_DATE]"
+    },
+    "validation_report": {
+      "study_id": "NCT00081328",
+      "revision": 1,
+      "overall_status": "REQUIRES_REVIEW",
+      "overall_score": 94.7,
+      "groundedness_score": 100.0,
+      "completeness_score": 100.0,
+      "readability_score": 80.0,
+      "traceability_score": 77.8,
+      "checks": [
+        {
+          "check_id": "groundedness",
+          "check_name": "Groundedness & Hallucination Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "No ungrounded claims or invented contacts detected.",
+          "flagged_items": []
+        },
+        {
+          "check_id": "omission",
+          "check_name": "Fact Completeness & Coverage Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "Reflected 5 out of 5 core protocol fact domain(s) (100% coverage).",
+          "flagged_items": []
+        },
+        {
+          "check_id": "not_found_integrity",
+          "check_name": "NOT_FOUND Placeholders Integrity Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "100% NOT_FOUND section placeholder integrity verified.",
+          "flagged_items": []
+        },
+        {
+          "check_id": "readability",
+          "check_name": "Health Literacy & Readability Check",
+          "status": "WARNING",
+          "score": 80.0,
+          "details": "Estimated reading level: Grade 48.3 (Avg sentence length: 78.7 words).",
+          "flagged_items": [
+            "Estimated reading grade level (48.3) exceeds recommended 8th grade target."
+          ]
+        },
+        {
+          "check_id": "traceability",
+          "check_name": "Source Evidence Traceability Check",
+          "status": "WARNING",
+          "score": 77.8,
+          "details": "7 of 9 SUPPORTED section(s) maintain valid source chunk ID traceability.",
+          "flagged_items": [
+            "Section 'Voluntary Participation' is marked SUPPORTED but has empty source_evidence_ids.",
+            "Section 'Confidentiality' is marked SUPPORTED but has empty source_evidence_ids."
+          ]
+        },
+        {
+          "check_id": "section_consistency",
+          "check_name": "Structured & Patient-Friendly Section Parity Check",
+          "status": "PASS",
+          "score": 100.0,
+          "details": "100% section parity verified (9 evidence-supported section(s)).",
+          "flagged_items": []
+        }
+      ],
+      "recommendations": [
+        "Review flagged warnings to optimize ICF clarity and factual coverage."
+      ]
+    },
+    "icf_draft": {
+      "sections": [
+        {
+          "section_id": "study_title",
+          "title": "Study Title",
+          "content": "Studies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial",
+          "source_evidence_ids": [
+            "NCT00081328_study_identification_001"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "invitation",
+          "title": "Invitation to Participate",
+          "content": "You are being invited to participate in a clinical research study focused on Section: Study Design & Population Parameters\nStudy Type: INTERVENTIONAL\nPhase: PHASE3\nAllocation: RANDOMIZED\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: QUADRUPLE\nEnrollment Target: 699 participants. Before deciding whether to take part, please read this consent document carefully.",
+          "source_evidence_ids": [
+            "NCT00081328_design_034"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "purpose",
+          "title": "Purpose of the Study",
+          "content": "The purpose of this clinical research study is to address the following objectives:\n\nPrimary Objectives:\n- Evaluate the influence of individual and family behaviors on treatment response;\n- Compare the relative cost effectiveness of the three treatment arms",
+          "source_evidence_ids": [
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "why_asked",
+          "title": "Why You Are Being Asked",
+          "content": "You are being asked to participate because you meet the following study eligibility criteria:\n\nInclusion Criteria:\n- Duration since diagnosis less than two years by date of randomization\n- BMI \u2265 85th percentile documented at time of diagnosis or at screening\n- Fasting C-peptide at screening (drawn at least one week after treatment for ketosis or acidosis, if applicable) \\> 0.6 ng/mL\n- Absence of pancreatic autoimmunity (both GAD and ICA512 negative)\n- Age 10-17, with randomization prior to 18th birthday\n- Signed informed consent/assent forms for the pre-randomization period\n- A family member or adult closely involved in the daily activities of the child agrees to participate in the child's treatment\n- Patient on medication(s) that are known to cause weight gain within the last 30 days\n- Patient on any weight-loss medication(s) within the last 30 days\n- Patient on medication(s) known to affect the metabolism of study drug\n- Inability to comprehend the lowest grade level at which lifestyle intervention materials are prepared, for both child and participating family member, assessed by mastery of standard diabetes education program administered during run-in\n- Inability to comply with requirements of study during run-in period\n- Females who are pregnant, planning to become pregnant within two years of enrollment, or who admit sexual activity without appropriate contraception\n- Calculated creatinine clearance \\< 70 mL/min\n- Physical limitations preventing patient from being randomized to the lifestyle intervention\n- Patient plans to leave the geographic area within one calendar year\n- Admitted use of anabolic steroids within 60 days\n\nExclusion Criteria:\n- Developmental disorder) that would prevent participation in the opinion of the investigator\n- Patient participates in a formal weight-loss program\n- Duration since diagnosis less than 2 years at randomization\n- HbA1c \\< 8% on metformin alone\n- Age 10-17, with randomization before patient is 18 years old\n- Signed consent/assent forms for randomization and the post-randomization phase\n- A family member or adult closely involved in the daily activities of the child agrees to participate in the child's treatment\n- Fluency in English or Spanish for both child and family member\n- Patient and family able to fully participate in trial protocol in the opinion of the investigator\n- Refractory hypertension: average systolic blood pressure \u2265 150 mmHg or average diastolic blood pressure \u2265 95 mmHg despite appropriate medical therapy",
+          "source_evidence_ids": [
+            "NCT00081328_eligibility_012",
+            "NCT00081328_eligibility_046",
+            "NCT00081328_eligibility_044"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "procedures",
+          "title": "Study Procedures",
+          "content": "During this study, participants will undergo regular health assessments and receive the following study treatment regimens:\n- Metformin (DRUG): capsule, 1000 mg bid\n- Rosiglitazone (DRUG): capsule, 4 mg bid\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003",
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "duration",
+          "title": "Study Duration",
+          "content": "Your total participation in this study is expected to last: recruits patients over a three-year period and follows patients for a minimum of two years",
+          "source_evidence_ids": [
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "interventions",
+          "title": "Study Interventions / Treatments",
+          "content": "Participants will be assigned to or receive the following study treatments or regimens:\n- Metformin (DRUG): capsule, 1000 mg bid\n- Rosiglitazone (DRUG): capsule, 4 mg bid\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin alone, (2) metformin plus rosiglitazone, and (3) metformin plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are randomized within two years of the diagnosis of T2D",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003",
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "voluntary",
+          "title": "Voluntary Participation",
+          "content": "Participation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "confidentiality",
+          "title": "Confidentiality",
+          "content": "Your study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        }
+      ],
+      "revision": 1
+    },
+    "patient_friendly_icf": {
+      "sections": [
+        {
+          "section_id": "study_title",
+          "title": "Study Title",
+          "content": "Studies to Treat Or Prevent Pediatric Type 2 Diabetes (STOPP-T2D) Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY) Clinical Trial",
+          "source_evidence_ids": [
+            "NCT00081328_study_identification_001"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "invitation",
+          "title": "Invitation to Participate",
+          "content": "We invite you to take part in a medical research study about Section: Study Design & Population Parameters\nStudy Type: treatment testing\nPhase: PHASE3\nAllocation: assigned by chance (for example, like flipping a coin)\nIntervention Model: PARALLEL\nPrimary Purpose: TREATMENT\nMasking: QUADRUPLE\nEnrollment Target: 699 participants. Before deciding whether to take part, please read this consent document carefully.",
+          "source_evidence_ids": [
+            "NCT00081328_design_034"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "purpose",
+          "title": "Purpose of the Study",
+          "content": "The main goals of this research study are to answer these questions:\n\nMain Goal of the Study:\n- study the influence of individual and family behaviors on treatment response;\n- Compare the relative cost effectiveness of the three treatment arms",
+          "source_evidence_ids": [
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "why_asked",
+          "title": "Why You Are Being Asked",
+          "content": "You are invited to join because you meet these study participation rules:\n\nYou may be able to join if you meet these rules:\n- Duration since diagnosis less than two years by date of randomization\n- BMI \u2265 85th percentile documented at time of diagnosis or at screening\n- Fasting C-peptide at screening (drawn at least one week after treatment for ketosis or acidosis, if applicable) \\> 0.6 ng/mL\n- Absence of pancreatic autoimmunity (both GAD and ICA512 negative)\n- Age 10-17, with randomization prior to 18th birthday\n- Signed informed consent/assent forms for the pre-randomization period\n- A family member or adult closely involved in the daily activities of the child agrees to participate in the child's treatment\n- Patient on medication(s) that are known to cause weight gain within the last 30 days\n- Patient on any weight-loss medication(s) within the last 30 days\n- Patient on medication(s) known to affect the metabolism of study drug\n- Inability to comprehend the lowest grade level at which lifestyle intervention materials are prepared, for both child and participating family member, assessed by mastery of standard diabetes education program administered during run-in\n- Inability to comply with requirements of study during run-in period\n- Females who are pregnant, planning to become pregnant within two years of enrollment, or who admit sexual activity without appropriate contraception\n- Calculated creatinine clearance \\< 70 mL/min\n- Physical limitations preventing patient from being assigned by chance (for example, like flipping a coin) to the lifestyle intervention\n- Patient plans to leave the geographic area within one calendar year\n- Admitted use of anabolic steroids within 60 days\n\nYou cannot join if any of these apply to you:\n- Developmental disorder) that would prevent participation in the opinion of the investigator\n- Patient participates in a formal weight-loss program\n- Duration since diagnosis less than 2 years at randomization\n- HbA1c \\< 8% on metformin (a standard diabetes medication) alone\n- Age 10-17, with randomization before patient is 18 years old\n- Signed consent/assent forms for randomization and the post-randomization phase\n- A family member or adult closely involved in the daily activities of the child agrees to participate in the child's treatment\n- Fluency in English or Spanish for both child and family member\n- Patient and family able to fully participate in trial protocol in the opinion of the investigator\n- Refractory hypertension: average systolic blood pressure \u2265 150 mmHg or average diastolic blood pressure \u2265 95 mmHg despite appropriate medical therapy",
+          "source_evidence_ids": [
+            "NCT00081328_eligibility_012",
+            "NCT00081328_eligibility_046",
+            "NCT00081328_eligibility_044"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "procedures",
+          "title": "Study Procedures",
+          "content": "During this study, participants will have regular health assessments and receive the following study treatment regimens:\n- metformin (a standard diabetes medication) (DRUG): capsule, 1000 mg twice a day\n- rosiglitazone (a diabetes medication that helps body insulin sensitivity) (DRUG): capsule, 4 mg twice a day\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin (a standard diabetes medication) alone, (2) metformin (a standard diabetes medication) plus rosiglitazone (a diabetes medication that helps body insulin sensitivity), and (3) metformin (a standard diabetes medication) plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are assigned by chance (for example, like flipping a coin) within two years of the diagnosis of T2D",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003",
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "duration",
+          "title": "Study Duration",
+          "content": "Your overall time taking part in this study will be: recruits patients over a three-year period and follows patients for a minimum of two years",
+          "source_evidence_ids": [
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "interventions",
+          "title": "Study Interventions / Treatments",
+          "content": "You will receive or be assigned to one of these study treatment options:\n- metformin (a standard diabetes medication) (DRUG): capsule, 1000 mg twice a day\n- rosiglitazone (a diabetes medication that helps body insulin sensitivity) (DRUG): capsule, 4 mg twice a day\n- Lifestyle Program (BEHAVIORAL): a lifestyle change (LC) phase of weekly sessions for months 1-6, followed by a bi-weekly lifestyle maintenance (LM) phase through months 7-12, and a continued contact (CC) phase from months 13 through the end of the study. The CC phase sessions are scheduled monthly for the initial 12 months (study months 13-24) and then quarterly or 4 times a year to the end of the study\n- The three treatment regimens are: (1) metformin (a standard diabetes medication) alone, (2) metformin (a standard diabetes medication) plus rosiglitazone (a diabetes medication that helps body insulin sensitivity), and (3) metformin (a standard diabetes medication) plus an intensive lifestyle intervention called the TODAY Lifestyle Program (TLP). The study recruits patients over a three-year period and follows patients for a minimum of two years. Patients are assigned by chance (for example, like flipping a coin) within two years of the diagnosis of T2D",
+          "source_evidence_ids": [
+            "NCT00081328_interventions_003",
+            "NCT00081328_objectives_005"
+          ],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "voluntary",
+          "title": "Voluntary Participation",
+          "content": "Participation in this research study is completely voluntary. You may choose to withdraw from participation at any time without penalty or loss of medical benefits to which you are otherwise entitled.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        },
+        {
+          "section_id": "confidentiality",
+          "title": "Confidentiality",
+          "content": "Your study records and personal identity will be kept strictly confidential in accordance with applicable medical privacy and data protection standards.",
+          "source_evidence_ids": [],
+          "status": "SUPPORTED"
+        }
+      ],
+      "revision": 1
+    },
+    "revision": 1,
+    "generation_status": "success",
+    "message": "ICF content generation complete."
+  },
+  "indexed_studies": [
+    "NCT00081328"
+  ]
+}

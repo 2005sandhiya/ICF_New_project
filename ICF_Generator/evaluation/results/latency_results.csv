@@ -1,0 +1,21 @@
+Trial Index,Endpoint,HTTP Status,Elapsed (ms),Elapsed (sec),Status
+1,POST /api/icf/generate,200,11640.36,11.64,SUCCESS
+2,POST /api/icf/generate,200,11723.65,11.724,SUCCESS
+3,POST /api/icf/generate,200,11200.1,11.2,SUCCESS
+4,POST /api/icf/generate,200,11886.25,11.886,SUCCESS
+5,POST /api/icf/generate,200,12614.39,12.614,SUCCESS
+6,POST /api/icf/generate,200,11342.66,11.343,SUCCESS
+7,POST /api/icf/generate,200,11065.88,11.066,SUCCESS
+8,POST /api/icf/generate,200,11253.69,11.254,SUCCESS
+9,POST /api/icf/generate,200,11328.03,11.328,SUCCESS
+10,POST /api/icf/generate,200,11882.74,11.883,SUCCESS
+11,POST /api/icf/generate,200,11359.61,11.36,SUCCESS
+12,POST /api/icf/generate,200,11118.99,11.119,SUCCESS
+13,POST /api/icf/generate,200,11301.33,11.301,SUCCESS
+14,POST /api/icf/generate,200,10845.75,10.846,SUCCESS
+15,POST /api/icf/generate,200,11223.79,11.224,SUCCESS
+16,POST /api/icf/generate,200,11234.72,11.235,SUCCESS
+17,POST /api/icf/generate,200,10902.39,10.902,SUCCESS
+18,POST /api/icf/generate,200,10985.44,10.985,SUCCESS
+19,POST /api/icf/generate,200,11032.11,11.032,SUCCESS
+20,POST /api/icf/generate,200,11408.08,11.408,SUCCESS

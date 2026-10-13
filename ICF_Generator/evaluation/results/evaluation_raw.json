@@ -1,0 +1,204 @@
+{
+  "timestamp": "2026-10-10T15:35:10.394531",
+  "deepeval_version": "4.2.8",
+  "total_test_cases": 4,
+  "records": [
+    {
+      "test_case_id": "TC_001",
+      "study_id": "NCT00081328",
+      "title": "Treatment Options for Type 2 Diabetes in Adolescents and Youth (TODAY)",
+      "is_missing_info_case": false,
+      "generation_status": "SUCCESS",
+      "draft_word_count": 1010,
+      "retrieved_chunks_count": 5,
+      "deterministic_metrics": {
+        "completeness_score": 50.0,
+        "missing_sections": [
+          "Study Purpose",
+          "Risks and Discomforts",
+          "Privacy and Confidentiality"
+        ],
+        "traceability_score": 100.0,
+        "grounded_facts_count": 3,
+        "unsupported_claims_count": 0,
+        "unsupported_claims": [],
+        "readability_ease": 0.0,
+        "readability_grade": 37.2,
+        "missing_info_safety_score": 100.0,
+        "hallucinations": [],
+        "validation_score": 88.0,
+        "validation_status": "PASSED_WITH_WARNINGS"
+      },
+      "deepeval_llm_metrics": {
+        "deepeval_status": "BLOCKED",
+        "deepeval_error": "GEMINI_API_KEY missing from environment",
+        "metrics": {
+          "faithfulness": {
+            "score": null,
+            "reason": null
+          },
+          "answer_relevancy": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_precision": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_recall": {
+            "score": null,
+            "reason": null
+          }
+        }
+      }
+    },
+    {
+      "test_case_id": "TC_002",
+      "study_id": "NCT00162175",
+      "title": "PPAR-COMBO With Sulfonylurea",
+      "is_missing_info_case": false,
+      "generation_status": "SUCCESS",
+      "draft_word_count": 55,
+      "retrieved_chunks_count": 0,
+      "deterministic_metrics": {
+        "completeness_score": 33.3,
+        "missing_sections": [
+          "Study Purpose",
+          "Interventions",
+          "Risks and Discomforts",
+          "Privacy and Confidentiality"
+        ],
+        "traceability_score": 0.0,
+        "grounded_facts_count": 0,
+        "unsupported_claims_count": 0,
+        "unsupported_claims": [],
+        "readability_ease": 8.3,
+        "readability_grade": 16.7,
+        "missing_info_safety_score": 100.0,
+        "hallucinations": [],
+        "validation_score": 88.0,
+        "validation_status": "PASSED_WITH_WARNINGS"
+      },
+      "deepeval_llm_metrics": {
+        "deepeval_status": "BLOCKED",
+        "deepeval_error": "GEMINI_API_KEY missing from environment",
+        "metrics": {
+          "faithfulness": {
+            "score": null,
+            "reason": null
+          },
+          "answer_relevancy": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_precision": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_recall": {
+            "score": null,
+            "reason": null
+          }
+        }
+      }
+    },
+    {
+      "test_case_id": "TC_003",
+      "study_id": "NCT00481663",
+      "title": "Study of Different Doses of Sitagliptin in Type 2 Diabetes",
+      "is_missing_info_case": false,
+      "generation_status": "SUCCESS",
+      "draft_word_count": 55,
+      "retrieved_chunks_count": 0,
+      "deterministic_metrics": {
+        "completeness_score": 33.3,
+        "missing_sections": [
+          "Study Purpose",
+          "Interventions",
+          "Risks and Discomforts",
+          "Privacy and Confidentiality"
+        ],
+        "traceability_score": 0.0,
+        "grounded_facts_count": 0,
+        "unsupported_claims_count": 0,
+        "unsupported_claims": [],
+        "readability_ease": 8.3,
+        "readability_grade": 16.7,
+        "missing_info_safety_score": 100.0,
+        "hallucinations": [],
+        "validation_score": 88.0,
+        "validation_status": "PASSED_WITH_WARNINGS"
+      },
+      "deepeval_llm_metrics": {
+        "deepeval_status": "BLOCKED",
+        "deepeval_error": "GEMINI_API_KEY missing from environment",
+        "metrics": {
+          "faithfulness": {
+            "score": null,
+            "reason": null
+          },
+          "answer_relevancy": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_precision": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_recall": {
+            "score": null,
+            "reason": null
+          }
+        }
+      }
+    },
+    {
+      "test_case_id": "TC_004",
+      "study_id": "NCT_MISSING_INFO_TEST",
+      "title": "Synthetic Protocol Missing Sponsor and Compensation Details",
+      "is_missing_info_case": true,
+      "generation_status": "SUCCESS",
+      "draft_word_count": 1010,
+      "retrieved_chunks_count": 5,
+      "deterministic_metrics": {
+        "completeness_score": 33.3,
+        "missing_sections": [
+          "Study Purpose",
+          "Privacy and Confidentiality"
+        ],
+        "traceability_score": 0.0,
+        "grounded_facts_count": 0,
+        "unsupported_claims_count": 0,
+        "unsupported_claims": [],
+        "readability_ease": 0.0,
+        "readability_grade": 37.2,
+        "missing_info_safety_score": 100.0,
+        "hallucinations": [],
+        "validation_score": 88.0,
+        "validation_status": "PASSED_WITH_WARNINGS"
+      },
+      "deepeval_llm_metrics": {
+        "deepeval_status": "BLOCKED",
+        "deepeval_error": "GEMINI_API_KEY missing from environment",
+        "metrics": {
+          "faithfulness": {
+            "score": null,
+            "reason": null
+          },
+          "answer_relevancy": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_precision": {
+            "score": null,
+            "reason": null
+          },
+          "contextual_recall": {
+            "score": null,
+            "reason": null
+          }
+        }
+      }
+    }
+  ]
+}

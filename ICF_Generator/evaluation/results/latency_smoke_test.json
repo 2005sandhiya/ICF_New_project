@@ -1,0 +1,46 @@
+{
+  "study_info": {
+    "timestamp": "2026-10-10T16:14:41.486038",
+    "url": "http://localhost:8001/api/studies/NCT00081328",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2034.64,
+    "elapsed_sec": 2.035,
+    "is_success": true,
+    "error": null,
+    "response_bytes": 41537
+  },
+  "faiss_search": {
+    "timestamp": "2026-10-10T16:14:43.712724",
+    "url": "http://localhost:8001/api/search",
+    "method": "POST",
+    "status_code": 200,
+    "elapsed_ms": 2226.74,
+    "elapsed_sec": 2.227,
+    "is_success": true,
+    "error": null,
+    "response_bytes": 4946
+  },
+  "icf_generate": {
+    "timestamp": "2026-10-10T16:14:55.781015",
+    "url": "http://localhost:8001/api/icf/generate",
+    "method": "POST",
+    "status_code": 200,
+    "elapsed_ms": 12069.04,
+    "elapsed_sec": 12.069,
+    "is_success": true,
+    "error": null,
+    "response_bytes": 41309
+  },
+  "docx_export": {
+    "timestamp": "2026-10-10T16:15:00.224720",
+    "url": "http://localhost:8001/api/icf/export/NCT00081328?export_type=patient_facing&format=docx",
+    "method": "POST",
+    "status_code": 200,
+    "elapsed_ms": 2051.65,
+    "elapsed_sec": 2.052,
+    "is_success": true,
+    "error": null,
+    "response_bytes": 17319
+  }
+}

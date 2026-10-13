@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    "ICF_Generator/backend",
+    "./ICF_Generator/backend",
+    "backend",
+    "./backend"
+  ],
+  "typeCheckingMode": "off"
+}
